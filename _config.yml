@@ -1,6 +1,6 @@
 title: "Miguel Cardoso"
 author: "Miguel Cardoso"
-description: "University of Aveiro"
+description: "cardosomiguel@ua.pt"
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -25,7 +25,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 # https://aksakalli.github.io/jekyll-doc-theme/docs/font-awesome/
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "mailto:cardosomiguel@ua.pt"}
+#  - {title: Mail, icon: envelope, url: "mailto:cardosomiguel@ua.pt"}
   - {title: Github, icon: github, url: "https://github.com/miguelangelooscardoso"}
   - {title: Twitter, icon: twitter, url: ""}
 
