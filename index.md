@@ -1,6 +1,5 @@
 ---
-layout: page
-classes: wide
+layout: default
 title: "Posts"
 ---
 
