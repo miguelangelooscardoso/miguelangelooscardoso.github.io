@@ -8,7 +8,7 @@ categories:
 ---
 
 <figure class="image">
-  <img src="{{ include.url | /assets/smear_bccFe_.eps}}" alt="{{ include.description | asddasda}}">
+  <img src="{{ include.url | /assets/smear_fccNi_.eps}}" alt="{{ include.description | asddasda}}">
   <figcaption>{{ include.description | asdasdas }}</figcaption>
 </figure>
 
