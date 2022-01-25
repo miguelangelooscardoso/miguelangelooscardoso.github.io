@@ -1,4 +1,11 @@
-
+---
+title:  "Our New Post"
+mathjax: true
+layout: post
+categories:
+  - github
+  -  website
+---
 
 An energy and a magnetic moment variation per atom of 10􀀀4 (0.1 meV) and 10􀀀2 (0.01
 B) is acceptable for our purposes here. Figures 3.1 and 3.2 help us to select the mesh sizes
