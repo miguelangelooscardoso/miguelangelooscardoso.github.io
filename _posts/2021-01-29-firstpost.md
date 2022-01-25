@@ -20,12 +20,12 @@ Solarized dark                      |  Solarized Ocean                    | Sola
 
 ![title](/assets/smear_fccNi_.eps)![title](/assets/smear_hcpCo_.eps)![title](/assets/smear_bccFe_.eps)
 
-<p align="center">
+<p align="center"; text-align:"center">
   <img src="/assets/smear_fccNi_.eps" width="32%" />
   <img src="/assets/smear_hcpCo_.eps" width="32%" /> 
   <img src="/assets/smear_bccFe_.eps" width="32%" />
 <br>
-  <span><figcaption>Figure 1.1: This is my caption text.</figcaption><span>
+  <figcaption>Figure 1.1: This is my caption text.</figcaption>
 </p>
 
 
