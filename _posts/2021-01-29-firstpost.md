@@ -8,7 +8,10 @@ categories:
 ---
 
 
-<figure class="image"><img src="{{ include.url | /assets/smear_bccFe_.eps }}" alt="{{ include.description | asddasda }}"><figcaption>{{ include.description | "asdasdas" }}</figcaption></figure>
+<figure>
+  <img src="{{site.url}}/assets/smear_fccNi_.eps" alt="my alt text"/>
+  <figcaption>This is my caption text.</figcaption>
+</figure>
 
 Solarized dark                      |  Solarized Ocean                    | Solarized light                   |
 :----------------------------------:|:------------------------------------:-----------------------------------:
