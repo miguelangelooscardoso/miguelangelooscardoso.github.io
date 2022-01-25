@@ -13,6 +13,13 @@ Solarized dark                      |  Solarized Ocean                    | Sola
 
 ![title](/assets/smear_fccNi_.eps)![title](/assets/smear_hcpCo_.eps)![title](/assets/smear_bccFe_.eps)
 
+<p float="left">
+  <img src="/assets/smear_fccNi_.eps" width="100" />
+  <img src="/assets/smear_hcpCo_.eps" width="100" /> 
+  <img src="/assets/smear_bccFe_.eps" width="100" />
+</p>
+
+
 \section{Convergence studies}
 
 The Birch-Murnaghan equation of state was used in order to determines the lattice parameter which would minimize the ground state energy \cite{1947PhRv...71..809B, 1944PNAS...30..244M}. 
