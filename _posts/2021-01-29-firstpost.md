@@ -71,86 +71,82 @@ First calculations were performed using the Vienna Ab-initio package (VASP) with
 | Thirteenth entry | Fourteenth entry | Fifteenth entry | Sixteenth entry |
 
 <style type="text/css">
-.tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
+.tg  {border:none;border-collapse:collapse;border-spacing:0;}
+.tg td{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;overflow:hidden;
+  padding:10px 5px;word-break:normal;}
+.tg th{border-style:solid;border-width:0px;font-family:Arial, sans-serif;font-size:14px;font-weight:normal;
   overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:10px 5px;word-break:normal;}
-.tg .tg-c3ow{border-color:inherit;text-align:center;vertical-align:top}
+.tg .tg-ksrh{background-color:#000000;border-color:inherit;text-align:center;vertical-align:top}
 </style>
 <table class="tg">
 <thead>
   <tr>
-    <th class="tg-c3ow"></th>
-    <th class="tg-c3ow"></th>
-    <th class="tg-c3ow">Volume (\AA^3/atom)</th>
-    <th class="tg-c3ow">B_0 (GPa)</th>
-    <th class="tg-c3ow">mag. moment (\mu_B/atom)</th>
+    <th class="tg-ksrh" colspan="2"></th>
+    <th class="tg-ksrh">Volume (\AA^3/atom)</th>
+    <th class="tg-ksrh">B_0 (GPa)</th>
+    <th class="tg-ksrh">mag. moment (\mu_B/atom)</th>
   </tr>
 </thead>
 <tbody>
   <tr>
-    <td class="tg-c3ow">bcc Fe</td>
-    <td class="tg-c3ow">PBE</td>
-    <td class="tg-c3ow">11.44, 11.35\tnote{a}</td>
-    <td class="tg-c3ow">166.9, 197.7\tnote{a}</td>
-    <td class="tg-c3ow">2.20, 2.20\tnote{a}</td>
+    <td class="tg-ksrh">bcc Fe</td>
+    <td class="tg-ksrh">PBE</td>
+    <td class="tg-ksrh">11.44, 11.35\tnote{a}</td>
+    <td class="tg-ksrh">166.9, 197.7\tnote{a}</td>
+    <td class="tg-ksrh">2.20, 2.20\tnote{a}</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">LDA</td>
-    <td class="tg-c3ow">10.47, 10.36\tnote{a}</td>
-    <td class="tg-c3ow">202.1, 253.3\tnote{a}</td>
-    <td class="tg-c3ow">1.96, 1.95\tnote{a}</td>
+    <td class="tg-ksrh" rowspan="2"></td>
+    <td class="tg-ksrh">LDA</td>
+    <td class="tg-ksrh">10.47, 10.36\tnote{a}</td>
+    <td class="tg-ksrh">202.1, 253.3\tnote{a}</td>
+    <td class="tg-ksrh">1.96, 1.95\tnote{a}</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">experimental</td>
-    <td class="tg-c3ow">11.64\tnote{b}</td>
-    <td class="tg-c3ow">175.1\tnote{b}</td>
-    <td class="tg-c3ow">1.98\tnote{c} , 2.08\tnote{d}, 2.13\tnote{e}</td>
+    <td class="tg-ksrh">experimental</td>
+    <td class="tg-ksrh">11.64\tnote{b}</td>
+    <td class="tg-ksrh">175.1\tnote{b}</td>
+    <td class="tg-ksrh">1.98\tnote{c} , 2.08\tnote{d}, 2.13\tnote{e}</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">fcc Ni</td>
-    <td class="tg-c3ow">PBE</td>
-    <td class="tg-c3ow">10.94, 10.90\tnote{a}</td>
-    <td class="tg-c3ow">194.4, 199.8\tnote{a}</td>
-    <td class="tg-c3ow">0.62, 0.63\tnote{a}</td>
+    <td class="tg-ksrh">fcc Ni</td>
+    <td class="tg-ksrh">PBE</td>
+    <td class="tg-ksrh">10.94, 10.90\tnote{a}</td>
+    <td class="tg-ksrh">194.4, 199.8\tnote{a}</td>
+    <td class="tg-ksrh">0.62, 0.63\tnote{a}</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">LDA</td>
-    <td class="tg-c3ow">10.16, 10.06\tnote{a}</td>
-    <td class="tg-c3ow">254.2, 253.6\tnote{a}</td>
-    <td class="tg-c3ow">0.57, 0.58\tnote{a}</td>
+    <td class="tg-ksrh" rowspan="2"></td>
+    <td class="tg-ksrh">LDA</td>
+    <td class="tg-ksrh">10.16, 10.06\tnote{a}</td>
+    <td class="tg-ksrh">254.2, 253.6\tnote{a}</td>
+    <td class="tg-ksrh">0.57, 0.58\tnote{a}</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">experimental</td>
-    <td class="tg-c3ow">10.81\tnote{b}</td>
-    <td class="tg-c3ow">192.5\tnote{b}</td>
-    <td class="tg-c3ow">0.52\tnote{d} , 0.55\tnote{f} , 0.57\tnote{e}</td>
+    <td class="tg-ksrh">experimental</td>
+    <td class="tg-ksrh">10.81\tnote{b}</td>
+    <td class="tg-ksrh">192.5\tnote{b}</td>
+    <td class="tg-ksrh">0.52\tnote{d} , 0.55\tnote{f} , 0.57\tnote{e}</td>
   </tr>
   <tr>
-    <td class="tg-c3ow">hcp Co</td>
-    <td class="tg-c3ow">PBE</td>
-    <td class="tg-c3ow">10.83, 10.45\tnote{a}</td>
-    <td class="tg-c3ow">202.3, 262.5\tnote{a}</td>
-    <td class="tg-c3ow">1.57, 1.61\tnote{a}</td>
+    <td class="tg-ksrh">hcp Co</td>
+    <td class="tg-ksrh">PBE</td>
+    <td class="tg-ksrh">10.83, 10.45\tnote{a}</td>
+    <td class="tg-ksrh">202.3, 262.5\tnote{a}</td>
+    <td class="tg-ksrh">1.57, 1.61\tnote{a}</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">LDA</td>
-    <td class="tg-c3ow">9.97, 9.99\tnote{a}</td>
-    <td class="tg-c3ow">245.0, 237.6\tnote{a}</td>
-    <td class="tg-c3ow">1.47, 1.49\tnote{a}</td>
+    <td class="tg-ksrh" rowspan="2"></td>
+    <td class="tg-ksrh">LDA</td>
+    <td class="tg-ksrh">9.97, 9.99\tnote{a}</td>
+    <td class="tg-ksrh">245.0, 237.6\tnote{a}</td>
+    <td class="tg-ksrh">1.47, 1.49\tnote{a}</td>
   </tr>
   <tr>
-    <td class="tg-c3ow"></td>
-    <td class="tg-c3ow">experimental</td>
-    <td class="tg-c3ow">10.96\tnote{b}</td>
-    <td class="tg-c3ow">198.4\tnote{b}</td>
-    <td class="tg-c3ow">1.52\tnote{d} , 1.55\tnote{c} , 1.58\tnote{g}</td>
+    <td class="tg-ksrh">experimental</td>
+    <td class="tg-ksrh">10.96\tnote{b}</td>
+    <td class="tg-ksrh">198.4\tnote{b}</td>
+    <td class="tg-ksrh">1.52\tnote{d} , 1.55\tnote{c} , 1.58\tnote{g}</td>
   </tr>
 </tbody>
 </table>
