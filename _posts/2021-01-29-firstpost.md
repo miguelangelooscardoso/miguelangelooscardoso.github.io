@@ -10,7 +10,7 @@ categories:
 
 <figure>
   <img src="{{site.url}}/assets/smear_fccNi_.eps" alt="my alt text"/>
-  <figcaption>Figure 1. This is my caption text.</figcaption>
+  <figcaption>Figure 1.1: This is my caption text.</figcaption>
 </figure>
 
 Solarized dark                      |  Solarized Ocean                    | Solarized light                   |
