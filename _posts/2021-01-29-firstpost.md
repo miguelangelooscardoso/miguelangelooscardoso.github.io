@@ -6,7 +6,7 @@ categories:
   - github
   -  website
 ---
-![title](smear_fccNi_.eps)![title](smear_hcpCo_.eps)![title](smear_bccFe_.eps)
+![title](/assets/smear_fccNi_.eps)![title](/assets/smear_hcpCo_.eps)![title](/assets/smear_bccFe_.eps)
 
 \section{Convergence studies}
 
