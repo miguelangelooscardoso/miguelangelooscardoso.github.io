@@ -6,6 +6,11 @@ categories:
   - github
   -  website
 ---
+
+Solarized dark                      |  Solarized Ocean                    | Solarized light                   |
+:----------------------------------:|:------------------------------------:-----------------------------------:
+![title](/assets/smear_fccNi_.eps)  |  ![title](/assets/smear_hcpCo_.eps) |![title](/assets/smear_bccFe_.eps) |
+
 ![title](/assets/smear_fccNi_.eps)![title](/assets/smear_hcpCo_.eps)![title](/assets/smear_bccFe_.eps)
 
 \section{Convergence studies}
