@@ -25,7 +25,7 @@ Solarized dark                      |  Solarized Ocean                    | Sola
   <img src="/assets/smear_hcpCo_.eps" width="32%" /> 
   <img src="/assets/smear_bccFe_.eps" width="32%" />
 <br>
-  <em>caption</em>
+  <figcaption>Figure 1.1: This is my caption text.</figcaption>
 </p>
 
 
