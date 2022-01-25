@@ -7,7 +7,10 @@ categories:
   -  website
 ---
 
-{% include image.html url="/assets/smear_fccNi_.eps" description="My cat, Robert Downey Jr." %}
+<figure class="image">
+  <img src="{{ include.url | /assets/smear_bccFe_.eps}}" alt="{{ include.description | asddasda}}">
+  <figcaption>{{ include.description | asdasdas }}</figcaption>
+</figure>
 
 <figure class="image"><img src="{{ include.url | /assets/smear_bccFe_.eps }}" alt="{{ include.description | asddasda }}"><figcaption>{{ include.description | asdasdas }}</figcaption></figure>
 
