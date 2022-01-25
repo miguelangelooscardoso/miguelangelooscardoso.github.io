@@ -17,10 +17,6 @@ Solarized dark                      |  Solarized Ocean                    | Sola
 :----------------------------------:|:------------------------------------:-----------------------------------:
 ![title](/assets/smear_fccNi_.eps)  |  ![title](/assets/smear_hcpCo_.eps) |![title](/assets/smear_bccFe_.eps) |
 
-<figure class="image">
-  <img src="{{ include.url | /assets/smear_fccNi_.eps}}" alt="{{ include.description | asddasda}}">
-  <figcaption>{{ include.description | "asdasdas" }}</figcaption>
-</figure>
 
 ![title](/assets/smear_fccNi_.eps)![title](/assets/smear_hcpCo_.eps)![title](/assets/smear_bccFe_.eps)
 
