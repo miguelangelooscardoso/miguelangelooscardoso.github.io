@@ -31,7 +31,7 @@ according to [VASP the GUIDE][VASP]  written by Georg Kresse and Jürgen Furthm�
 <p align="center">
 <figcaption> Figure 1.1: This is my caption text.</figcaption>
 <br>  
-<img src="/assets/Murnaghan.png" width="32%" />
+<img src="/assets/Birch-Murnaghan.png" width="32%" />
 </p>
 
 Table shows the experimental lattice parameters used to perform each calculation and reports the volume (Å$$^3$$/atom), 
