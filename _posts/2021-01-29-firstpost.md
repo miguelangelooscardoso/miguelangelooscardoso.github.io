@@ -192,6 +192,8 @@ echo ${vectNormal[0]} ${vectNormal[1]} ${vectNormal[2]}
 
 {% endhighlight %}
 
+$(".latex").latex();
+
 \begin{table}[h!]
 \begin{threeparttable}
  \begin{center}
