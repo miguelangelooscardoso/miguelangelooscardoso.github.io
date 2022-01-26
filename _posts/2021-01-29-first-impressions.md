@@ -8,7 +8,7 @@ categories:
 ---
 # First impressions with Fe, Ni, Co
 
-The Birch-Murnaghan equation of state was used in order to determines the lattice parameter which would minimize the ground state energy \cite{1947PhRv...71..809B, 1944PNAS...30..244M}. 
+The Birch-Murnaghan equation of state was used in order to determines the lattice parameter which would minimize the ground state energy [Physical Review, 71(11):809–824][Francis-Birch].
 
 $$ E(V)=E_0+\frac{9V_0B_0}{16}\Bigg\{\Bigg[\Bigg(\frac{V_0}{V}\Bigg)^\frac{2}{3}-1\Bigg]^3B'_0+\Bigg[\Bigg(\frac{V_0}{V}\Bigg)^\frac{2}{3}-1\Bigg]^2\Bigg[6-4\Bigg(\frac{V_0}{V}\Bigg)^\frac{2}{3}\Bigg] \Bigg\}$$
 
@@ -31,3 +31,9 @@ Other computational studies on this three ferromagnetic metals already had been 
 Our calculations seems to agree with both studies. GGA functional seems to be a better representation of the volume. 
 Although LDA underestimates the volume of the three ferromagnets, it over estimates the bulk modulus, not being a better representation than GGA again. 
 On the other side, LDA seems to represent better the magnetic moment of face-centered cubic (fcc) Nickel and body-centered cubic (bcc) Iron while the hexagonal close-packed (hcp) Cobalt is better represented by the GGA functional calculation.
+
+Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+
+[jekyll-docs]: https://journals.aps.org/pr/abstract/10.1103/PhysRev.71.809
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
