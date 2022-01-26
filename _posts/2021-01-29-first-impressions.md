@@ -12,7 +12,7 @@ The Birch-Murnaghan equation of state was used in order to determines the lattic
 $$ E(V)=E_0+\frac{9V_0B_0}{16}\Bigg\{\Bigg[\Bigg(\frac{V_0}{V}\Bigg)^\frac{2}{3}-1\Bigg]^3B'_0+\Bigg[\Bigg(\frac{V_0}{V}\Bigg)^\frac{2}{3}-1\Bigg]^2\Bigg[6-4\Bigg(\frac{V_0}{V}\Bigg)^\frac{2}{3}\Bigg] \Bigg\}$$ 
 
 .MathJax {
-font-size: 1.3em;
+font-size: 1.3em !important;
 }
 
 
