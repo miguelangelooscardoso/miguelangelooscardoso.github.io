@@ -19,7 +19,7 @@ Here, the fit parameters E$$_0$$, V$$_0$$, B$$_0$$ and B$$'_0$$ are the energy a
 the bulk modulus at the equilibrium and the derivative of the bulk modulus with respect to pressure, respectively. 
 The bulk modulus is the relative change in the volume of a material provoked by an increase in pressure uniformly over all their surfaces.
 
-$$ B_0=\pdv{P}{V} \Bigg |_{V=V_0}=V_0\pdv{^2E}{V^2} \Bigg |_{V=V_0} $$
+$$ {B_0=\pdv{P}{V} \Bigg|_{V=V_0}=V_0\pdv{^2E}{V^2} \Bigg|_{V=V_0}} $$
 
 First calculations were performed using the Vienna Ab-initio package (VASP) with the GGA functional parameterized by Perdew-Burke-Ernzerhof (PBE) 
 \cite{PhysRevLett.77.3865} and the LDA functional parameterized by Ceperley-Alder (CA) \cite{PhysRevLett.45.566}. 
