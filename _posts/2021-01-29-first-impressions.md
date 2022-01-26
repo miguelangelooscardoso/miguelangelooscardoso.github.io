@@ -34,10 +34,9 @@ Our calculations seems to agree with both studies. GGA functional seems to be a 
 Although LDA underestimates the volume of the three ferromagnets, it over estimates the bulk modulus, not being a better representation than GGA again. 
 On the other side, LDA seems to represent better the magnetic moment of face-centered cubic (fcc) Nickel and body-centered cubic (bcc) Iron while the hexagonal close-packed (hcp) Cobalt is better represented by the GGA functional calculation.
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
 [Birch]: https://journals.aps.org/pr/abstract/10.1103/PhysRev.71.809
 [Murnaghan]:   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1078704/
 [PBE]: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.77.3865
 [LDA]: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.45.566
-Å and ö
+
+
