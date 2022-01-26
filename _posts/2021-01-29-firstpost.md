@@ -5,7 +5,6 @@ layout: post
 categories:
   - github
   -  website
-output: html_document
 ---
 
 
@@ -229,31 +228,7 @@ hcp Co & PBE & 10.83, 10.45\tnote{a} & 202.3, 262.5\tnote{a} & 1.57, 1.61\tnote{
  \end{threeparttable}
 \end{table}
 
-```{r, results = "asis", echo = FALSE, message = FALSE}
-library(knitr)
 
-tex2markdown <- function(texstring) {
-  writeLines(text = texstring,
-             con = myfile <- tempfile(fileext = ".tex"))
-  texfile <- pandoc(input = myfile, format = "html")
-  cat(readLines(texfile), sep = "\n")
-  unlink(c(myfile, texfile))
-}
-
-textable <- "
-\\begin{table}[]
-\\centering
-\\caption{Food order}
-\\begin{tabular}{| l | l |}
-\\hline
- Hamburgers & 3 \\\\ 
- Hot dogs & 2 \\\\ \\hline
-\\end{tabular}
-\\end{table}
-"
-
-tex2markdown(textable)
-```
   
 Although the previous results are close either to the previous computational studies or experimental results, there are some details in first principle calculations that need a higher attention in order to get the desired results. One of the first things to check is the number of the k-points. The k-points number has an influence both in the structural and in magnetic properties, so first of all the energy has to converge with respect to the mesh size (N). 
 
