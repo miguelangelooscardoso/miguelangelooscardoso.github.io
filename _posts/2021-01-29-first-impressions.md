@@ -22,7 +22,7 @@ First calculations were performed using the Vienna Ab-initio package (VASP) with
 \cite{PhysRevLett.77.3865} and the LDA functional parameterized by Ceperley-Alder (CA) \cite{PhysRevLett.45.566}. 
 A k-mesh of 11$$\times$$11$$\times$$11 was used to integrate the density of states and a fixed 500 eV plane-wave kinetic energy cutoff was set on the calculation. 
 The electrons considered as valence were 3p$$^{6}$$3d$$^{7}$$4s$$^{1}$$ for Fe,  3p$$^{6}$$3d$$^{8}$$4s$$^{1}$$ for Co (Co) and 3p$$^{6}$$3d$$^{9}$$4s$$^{1}$$ for Ni. 
-Tetrahedron method with Bl$$\ddot{o}$$chl corrections \cite{PhysRevB.49.16223} was used since it provides highly accurate descriptions for bulk materials, 
+Tetrahedron method with Bl$$\ddot{o}$$chl Blöch corrections \cite{PhysRevB.49.16223} was used since it provides highly accurate descriptions for bulk materials, 
 according to Kresse et al. \cite{Kresse2018}. The convergence criteria for total energy was 10$$^{-6}$$ eV for each self-consistent cycle. 
 Table \ref{table:idk} shows the experimental lattice parameters used to perform each calculation and reports the volume ($$\overset{\lower.5em\circ}{\mathrm{A}}^3$$/atom), 
 Birch-Murnaghan modulus (GPa) and magnetic moment ($$\mu_B$$/atom) obtained. 
@@ -36,3 +36,5 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [Francis-Birch]: https://journals.aps.org/pr/abstract/10.1103/PhysRev.71.809
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+
+Å and ö
