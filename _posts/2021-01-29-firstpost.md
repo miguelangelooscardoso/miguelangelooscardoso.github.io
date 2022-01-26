@@ -29,6 +29,7 @@ the right, we value the items on the left more.
 
 ![title](/assets/smear_fccNi_.eps)![title](/assets/smear_hcpCo_.eps)![title](/assets/smear_bccFe_.eps)
 
+![title](/assets/Birch-Murnaghan.png)
 
 <p align="center">
   <img src="/assets/smear_fccNi_.eps" width="32%" />
