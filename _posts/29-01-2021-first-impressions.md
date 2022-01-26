@@ -1,9 +1,10 @@
-title:  "First impressions with Fe, Ni, Co"
+---
+title:  "Our New Post"
 mathjax: true
 layout: post
 categories:
   - github
-  -  website
+  - website
 ---
 
 The Birch-Murnaghan equation of state was used in order to determines the lattice parameter which would minimize the ground state energy \cite{1947PhRv...71..809B, 1944PNAS...30..244M}. 
