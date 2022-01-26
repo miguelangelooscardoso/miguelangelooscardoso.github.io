@@ -27,7 +27,8 @@ A k-mesh of 11$$\times$$11$$\times$$11 was used to integrate the density of stat
 The electrons considered as valence were 3p$$^{6}$$3d$$^{7}$$4s$$^{1}$$ for Fe,  3p$$^{6}$$3d$$^{8}$$4s$$^{1}$$ for Co (Co) and 3p$$^{6}$$3d$$^{9}$$4s$$^{1}$$ for Ni. 
 Tetrahedron method with Blöch corrections [Phys. Rev. B, 49:16223–16233][Blöch] was used since it provides highly accurate descriptions for bulk materials, 
 according to Kresse et al. [VASP the GUIDE][VASP]. The convergence criteria for total energy was 10$$^{-6}$$ eV for each self-consistent cycle. 
-Table \ref{table:idk} shows the experimental lattice parameters used to perform each calculation and reports the volume (Å$$^3$$/atom), 
+
+Table shows the experimental lattice parameters used to perform each calculation and reports the volume (Å$$^3$$/atom), 
 Birch-Murnaghan modulus (GPa) and magnetic moment ($$\mu_B$$/atom) obtained. 
 Other computational studies on this three ferromagnetic metals already had been performed and compared to its experimental ones. 
 Our calculations seems to agree with both studies. GGA functional seems to be a better representation of the volume. 
