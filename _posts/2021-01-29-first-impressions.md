@@ -22,7 +22,7 @@ The bulk modulus is the relative change in the volume of a material provoked by 
 $$ \scriptsize{B_0=\frac{\partial{P}}{\partial{V}} \Bigg|_{V=V_0}=V_0\frac{\partial{^2E}}{\partial{V^2}} \Bigg|_{V=V_0}} $$
 
 First calculations were performed using the Vienna Ab-initio package (VASP) with the GGA functional parameterized by Perdew-Burke-Ernzerhof (PBE) 
-\cite{PhysRevLett.77.3865} and the LDA functional parameterized by Ceperley-Alder (CA) \cite{PhysRevLett.45.566}. 
+[Phys. Rev. Lett., 77:3865–3868][PBE] and the LDA functional parameterized by Ceperley-Alder (CA) [Phys. Rev. Lett., 45:566–569][LDA]. 
 A k-mesh of 11$$\times$$11$$\times$$11 was used to integrate the density of states and a fixed 500 eV plane-wave kinetic energy cutoff was set on the calculation. 
 The electrons considered as valence were 3p$$^{6}$$3d$$^{7}$$4s$$^{1}$$ for Fe,  3p$$^{6}$$3d$$^{8}$$4s$$^{1}$$ for Co (Co) and 3p$$^{6}$$3d$$^{9}$$4s$$^{1}$$ for Ni. 
 Tetrahedron method with Blöch corrections \cite{PhysRevB.49.16223} was used since it provides highly accurate descriptions for bulk materials, 
@@ -38,6 +38,6 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 [Birch]: https://journals.aps.org/pr/abstract/10.1103/PhysRev.71.809
 [Murnaghan]:   https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1078704/
-[jekyll-talk]: https://talk.jekyllrb.com/
-
+[PBE]: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.77.3865
+[LDA]: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.45.566
 Å and ö
