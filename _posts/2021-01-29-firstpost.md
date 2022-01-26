@@ -5,6 +5,7 @@ layout: post
 categories:
   - github
   -  website
+output: html_document
 ---
 
 
