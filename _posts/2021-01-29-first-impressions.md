@@ -28,6 +28,12 @@ The electrons considered as valence were 3p$$^{6}$$3d$$^{7}$$4s$$^{1}$$ for Fe, 
 Tetrahedron method with Blöch corrections [Phys. Rev. B, 49:16223–16233][Blöch] was used since it provides highly accurate descriptions for bulk materials, 
 according to [VASP the GUIDE][VASP]  written by Georg Kresse and Jürgen Furthmüller. The convergence criteria for total energy was 10$$^{-6}$$ eV for each self-consistent cycle. 
 
+<p align="center">
+<figcaption> Figure 1.1: This is my caption text.</figcaption>
+<br>  
+<img src="/assets/Murnaghan.png" width="32%" />
+</p>
+
 Table shows the experimental lattice parameters used to perform each calculation and reports the volume (Å$$^3$$/atom), 
 Birch-Murnaghan modulus (GPa) and magnetic moment ($$\mu_B$$/atom) obtained. 
 Other computational studies on this three ferromagnetic metals already had been performed and compared to its experimental ones. 
