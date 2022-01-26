@@ -4,7 +4,7 @@ mathjax: true
 layout: post
 categories:
   - github
-  -  website
+  - website
 ---
 
 
