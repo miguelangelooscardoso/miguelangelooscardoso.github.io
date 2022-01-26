@@ -28,7 +28,7 @@ The electrons considered as valence were 3p$$^{6}$$3d$$^{7}$$4s$$^{1}$$ for Fe, 
 Tetrahedron method with Blöch corrections [Phys. Rev. B, 49:16223–16233][Blöch] was used since it provides highly accurate descriptions for bulk materials, 
 according to [VASP the GUIDE][VASP]  written by Georg Kresse and Jürgen Furthmüller. The convergence criteria for total energy was 10$$^{-6}$$ eV for each self-consistent cycle. 
 
-<p align="center">
+<p align="middle">
 <figcaption> Figure 1.1: This is my caption text.</figcaption>
 <br>  
 <img src="/assets/Birch-Murnaghan.png" width="32%" />
