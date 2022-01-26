@@ -36,7 +36,7 @@ according to [VASP the GUIDE][VASP]  written by Georg Kresse and J√ºrgen Furthm√
 
 {:.mycenter}
 
-![title](/assets/Birch-Murnaghan.png)
+![title](/assets/Birch-Murnaghan.png){: width=50% }
 
 <style>
 .mycenter {
@@ -45,9 +45,6 @@ according to [VASP the GUIDE][VASP]  written by Georg Kresse and J√ºrgen Furthm√
 }  
 </style>
 
-img.resize {
-  max-width:50%;
-  max-height:50%;
 
 Table shows the experimental lattice parameters used to perform each calculation and reports the volume (√Ö$$^3$$/atom), 
 Birch-Murnaghan modulus (GPa) and magnetic moment ($$\mu_B$$/atom) obtained. 
