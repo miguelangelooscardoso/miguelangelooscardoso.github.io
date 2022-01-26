@@ -17,15 +17,15 @@ Here, the fit parameters E$$_0$$, V$$_0$$, B$$_0$$ and B$$'_0$$ are the energy a
 the bulk modulus at the equilibrium and the derivative of the bulk modulus with respect to pressure, respectively. 
 The bulk modulus is the relative change in the volume of a material provoked by an increase in pressure uniformly over all their surfaces.
 
-$$ B_0=\pdv{P}{V} \Bigg|_{V=V_0}=V_0\pdv{^2E}{V^2} \Bigg|_{V=V_0} $$
+$$ B_0=\pdv{P}{V} \Bigg |_{V=V_0}=V_0\pdv{^2E}{V^2} \Bigg |_{V=V_0} $$
 
 First calculations were performed using the Vienna Ab-initio package (VASP) with the GGA functional parameterized by Perdew-Burke-Ernzerhof (PBE) 
 \cite{PhysRevLett.77.3865} and the LDA functional parameterized by Ceperley-Alder (CA) \cite{PhysRevLett.45.566}. 
 A k-mesh of 11$$\times$$11$$\times$$11 was used to integrate the density of states and a fixed 500 eV plane-wave kinetic energy cutoff was set on the calculation. 
 The electrons considered as valence were 3p$$^{6}$$3d$$^{7}$$4s$$^{1}$$ for Fe,  3p$$^{6}$$3d$$^{8}$$4s$$^{1}$$ for Co (Co) and 3p$$^{6}$$3d$$^{9}$$4s$$^{1}$$ for Ni. 
-Tetrahedron method with Bl$m \ddot{o} = \acute{F}$chl corrections \cite{PhysRevB.49.16223} was used since it provides highly accurate descriptions for bulk materials, 
+Tetrahedron method with Bl$$m \ddot{o} = \acute{F}$$chl corrections \cite{PhysRevB.49.16223} was used since it provides highly accurate descriptions for bulk materials, 
 according to Kresse et al. \cite{Kresse2018}. The convergence criteria for total energy was 10$$^{-6}$$ eV for each self-consistent cycle. 
-Table \ref{table:idk} shows the experimental lattice parameters used to perform each calculation and reports the volume (\overset{\circ}{\mathrm {A}}$$^3$$/atom), 
+Table \ref{table:idk} shows the experimental lattice parameters used to perform each calculation and reports the volume ($$\overset{\circ}{\mathrm {A}}^3$$/atom), 
 Birch-Murnaghan modulus (GPa) and magnetic moment ($$\mu_B$$/atom) obtained. 
 Other computational studies on this three ferromagnetic metals already had been performed and compared to its experimental ones. 
 Our calculations seems to agree with both studies. GGA functional seems to be a better representation of the volume. 
