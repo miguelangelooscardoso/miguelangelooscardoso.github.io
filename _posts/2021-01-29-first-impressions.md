@@ -42,6 +42,10 @@ according to [VASP the GUIDE][VASP]  written by Georg Kresse and Jürgen Furthm�
 .mycenter {
     text-align:center;
 }
+img.resize {
+  max-width:50%;
+  max-height:50%;
+}  
 </style>
 
 Table shows the experimental lattice parameters used to perform each calculation and reports the volume (Å$$^3$$/atom), 
