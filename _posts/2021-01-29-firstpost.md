@@ -193,6 +193,7 @@ echo ${vectNormal[0]} ${vectNormal[1]} ${vectNormal[2]}
 {% endhighlight %}
 
 $(".latex").latex();
+<div class="latex">  
 
 \begin{table}[h!]
 \begin{threeparttable}
@@ -227,7 +228,8 @@ hcp Co & PBE & 10.83, 10.45\tnote{a} & 202.3, 262.5\tnote{a} & 1.57, 1.61\tnote{
  \end{center}
  \end{threeparttable}
 \end{table}
-
+<div class="latex">  
+  
 Although the previous results are close either to the previous computational studies or experimental results, there are some details in first principle calculations that need a higher attention in order to get the desired results. One of the first things to check is the number of the k-points. The k-points number has an influence both in the structural and in magnetic properties, so first of all the energy has to converge with respect to the mesh size (N). 
 
 \begin{figure}[h]
