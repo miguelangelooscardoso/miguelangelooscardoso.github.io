@@ -36,7 +36,7 @@ according to [VASP the GUIDE][VASP]  written by Georg Kresse and J√ºrgen Furthm√
 
 {:.mycenter}
 
-
+![title](/assets/Birch-Murnaghan.png)
 
 <style>
 .mycenter {
