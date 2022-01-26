@@ -6,7 +6,6 @@ categories:
   - github
   - website
 ---
-# First impressions with Fe, Ni, Co
 
 The Birch-Murnaghan equation of state was used in order to determines the lattice parameter which would minimize the ground state energy [Physical Review, 71(11):809–824][Francis-Birch].
 
