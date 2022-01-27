@@ -18,6 +18,3 @@ Ref. [6] H. A. Mook and C. G. Shull. Magnetic-moment distribution in nickel meta
 
 Ref. [7] R. M. Moon. Distribution of magnetic moment in hexagonal cobalt. Phys. Rev., 136:A195–A202, Oct 1964.
 
-@settings {
-  font-size: 100;
-}
