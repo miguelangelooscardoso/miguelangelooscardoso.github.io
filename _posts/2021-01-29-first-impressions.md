@@ -54,7 +54,7 @@ On the other side, LDA seems to represent better the magnetic moment of face-cen
 [Blöch]: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.49.16223
 [VASP]: http://wolf.ifj.edu.pl/workshop/work2008/tutorial/vasp.pdf
 
-Ref. [1] Johan Jönsson. Electronic transitions and correlation effects From pure elements to complex materials. Number 2053.
+\small{Ref. [1] Johan Jönsson. Electronic transitions and correlation effects From pure elements to complex materials. Number 2053.
 
 Ref. [2] K. Lejaeghere, V. Van Speybroeck, G. Van Oost, and S. Cottenier. Error estimates for solid-state density-functional theory predictions: An overview by means of the ground- state elemental crystals. Critical Reviews in Solid State and Materials Sciences, 39(1):1– 24, 2014.
 
@@ -66,4 +66,4 @@ Ref. [5] H. P. J. Wijn. 1.1.2.7 magnetic moments, compton profiles: Datasheet fr
 
 Ref. [6] H. A. Mook and C. G. Shull. Magnetic-moment distribution in nickel metal. Journal of Applied Physics, 37(3):1034–1035, 1966.
 
-Ref. [7] R. M. Moon. Distribution of magnetic moment in hexagonal cobalt. Phys. Rev., 136:A195–A202, Oct 1964.
+Ref. [7] R. M. Moon. Distribution of magnetic moment in hexagonal cobalt. Phys. Rev., 136:A195–A202, Oct 1964.}
