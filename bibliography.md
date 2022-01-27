@@ -17,3 +17,7 @@ Ref. [5] H. P. J. Wijn. 1.1.2.7 magnetic moments, compton profiles: Datasheet fr
 Ref. [6] H. A. Mook and C. G. Shull. Magnetic-moment distribution in nickel metal. Journal of Applied Physics, 37(3):1034–1035, 1966.
 
 Ref. [7] R. M. Moon. Distribution of magnetic moment in hexagonal cobalt. Phys. Rev., 136:A195–A202, Oct 1964.
+
+@settings {
+  font-size: 100;
+}
