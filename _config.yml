@@ -21,7 +21,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 #  - {title: "Lab", url: ""}
   - {file: "home.md", title: "Home", icon: home} 
   - {file: "cv.md", title: "About me", icon: user} # address-card
-  - {file: "references.md", title: ""}
+  - {file: "bibliography.md", title: ""}
 # Font Awesome Icon List
 # https://aksakalli.github.io/jekyll-doc-theme/docs/font-awesome/
 
