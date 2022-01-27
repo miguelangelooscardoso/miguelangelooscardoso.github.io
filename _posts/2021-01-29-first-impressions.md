@@ -39,7 +39,7 @@ according to [VASP the GUIDE][VASP]  written by Georg Kresse and Jürgen Furthm�
 }  
 </style>
 
-
+[References][Ref]
 Table shows the experimental lattice parameters used to perform each calculation and reports the volume (Å$$^3$$/atom), 
 Birch-Murnaghan modulus (GPa) and magnetic moment ($$\mu_B$$/atom) obtained. 
 Other computational studies on this three ferromagnetic metals already had been performed and compared to its experimental ones. 
@@ -53,5 +53,5 @@ On the other side, LDA seems to represent better the magnetic moment of face-cen
 [LDA]: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.45.566
 [Blöch]: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.49.16223
 [VASP]: http://wolf.ifj.edu.pl/workshop/work2008/tutorial/vasp.pdf
-
+[Ref]: 
 
