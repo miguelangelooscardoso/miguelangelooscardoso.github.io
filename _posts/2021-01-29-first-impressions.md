@@ -39,7 +39,7 @@ according to [VASP the GUIDE][VASP]  written by Georg Kresse and Jürgen Furthm�
 }  
 </style>
 
-[References][Ref]
+[Bibliography][Ref]
 Table shows the experimental lattice parameters used to perform each calculation and reports the volume (Å$$^3$$/atom), 
 Birch-Murnaghan modulus (GPa) and magnetic moment ($$\mu_B$$/atom) obtained. 
 Other computational studies on this three ferromagnetic metals already had been performed and compared to its experimental ones. 
