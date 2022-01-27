@@ -1,3 +1,12 @@
+---
+title:  "Convergence studies"
+mathjax: true
+layout: post
+categories:
+  - github
+  - website
+---
+
 <p align="center">
   <img src="/assets/smear_bccFe_.eps" width="32%" />
   <img src="/assets/smear_fccNi_.eps" width="32%" /> 
