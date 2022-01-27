@@ -12,7 +12,7 @@ Ref. [3] C. T. Chen, Y. U. Idzerda, H.-J. Lin, N. V. Smith, G. Meigs, E. Chaban,
 
 Ref. [4] R. A. Reck and D. L. Fry. Orbital and spin magnetization in Fe-Co, Fe-Ni, and Ni-Co. Phys. Rev., 184:492–495, Aug 1969.
 
-Ref. [5] H. P. J. Wijn. 1.1.2.7 magnetic moments, compton profiles: Datasheet from landolt- börnstein - group iii condensed matter · volume 32a: “3d, 4d and 5d elements, alloys and compounds” in springermaterials (https://doi.org/10.1007/10135124 11). accessed 2020-06-16.
+Ref. [5] H. P. J. Wijn, 1.1.2.7 Magnetic moments, Compton profiles: Datasheet from Landolt-Börnstein - Group III Condensed Matter · Volume 32A: “3d, 4d and 5d Elements, Alloys and Compounds” in SpringerMaterials, https://dx.doi.org/10.1007/10135124 11.
 
 Ref. [6] H. A. Mook and C. G. Shull. Magnetic-moment distribution in nickel metal. Journal of Applied Physics, 37(3):1034–1035, 1966.
 
