@@ -53,5 +53,5 @@ On the other side, LDA seems to represent better the magnetic moment of face-cen
 [LDA]: https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.45.566
 [Blöch]: https://journals.aps.org/prb/abstract/10.1103/PhysRevB.49.16223
 [VASP]: http://wolf.ifj.edu.pl/workshop/work2008/tutorial/vasp.pdf
-[Ref]: https://miguelangelooscardoso.github.io/bibliography/
+[Ref]: https://miguelangelooscardoso.github.io/bibliography.html/
 
