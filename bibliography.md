@@ -1,6 +1,8 @@
 ---
-layout: page
+permalink: /bibliography.html
 title: "Bibliography"
+layout: default
+sitemap: false
 ---
 
 
