@@ -1,4 +1,7 @@
-
+---
+layout: page
+title: "References"
+---
 
 
 Ref. [1] Johan Jönsson. Electronic transitions and correlation effects From pure elements to complex materials. Number 2053.
