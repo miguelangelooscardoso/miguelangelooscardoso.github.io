@@ -2,8 +2,8 @@
 layout: page
 title: ""
 ---
-
-{% include archive.html title = "Research Outreach" %}
+# Research Outreach
+include archive.html 
 
 <!--
 {% if site.show_excerpts %}
