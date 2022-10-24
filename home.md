@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Post"
+title: ""
 ---
 
 {% include archive.html %}
