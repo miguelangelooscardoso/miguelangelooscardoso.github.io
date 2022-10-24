@@ -3,7 +3,7 @@ layout: page
 title: "Post"
 ---
 
-include archive.html
+{% include archive.html %}
 
 <!--
 {% if site.show_excerpts %}
