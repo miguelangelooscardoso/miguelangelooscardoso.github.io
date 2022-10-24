@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 # Research Outreach
-include archive.html 
+{% include archive.html %} 
 
 <!--
 {% if site.show_excerpts %}
