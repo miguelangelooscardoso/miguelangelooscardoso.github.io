@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ""
+mathjax: true
 ---
 
 # Who am I?
