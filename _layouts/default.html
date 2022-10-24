@@ -3,7 +3,7 @@
 <title>{% if page.title %}{{ page.title  }} | {% endif %}{{ site.title }}</title>
 <meta charset="{{ site.encoding }}">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="author" content="{{ page.author | default: site.author | escape }}">
+<meta name="author" content="{{ page.author | default: site.author  }}">
 <meta name="generator" content="Jekyll v{{ jekyll.version }}">
 <link rel="canonical" href="{{ page.url | absolute_url }}">
 {% if site.show_frame %}
@@ -28,7 +28,7 @@
 {% endif %}
 
 <header>
-  <a href="{{ "/" | relative_url }}" class="title">{{ site.title | escape }}</a>
+  <a href="{{ "/" | relative_url }}" class="title">{{ site.title }}</a>
   {% include menu.html menu=pages %}
 </header>
 
