@@ -10,9 +10,9 @@ categories:
 Figure 1. shows a result from a fast calculation performed with a mesh grid 5 × 5 × 5 and a cut-off energy of 350 eV.
 
 <p align="center">
-  <img src="/assets/bcc_Fe_LDA.eps" width="32%" />
-  <img src="/assets/fcc_Ni_LDA.eps" width="32%" /> 
-  <img src="/assets/hcp_Co_LDA.eps" width="32%" />
+  <img src="/assets/Bcc_Fe_LDA.eps" width="32%" />
+  <img src="/assets/Fcc_Ni_LDA.eps" width="32%" /> 
+  <img src="/assets/Hcp_Co_LDA.eps" width="32%" />
 </p>
 
 
@@ -31,9 +31,9 @@ The extensions sv and pv mean that s and p semi-core states are treated as valen
 The right choice of the smearing method should contemplate a correct description of the properties of the system. Figure 3.6 shows Gaussian smearing (0), Fermi smearing (−1) and Tetrahedron method with Bl ̈ochl corrections (−5) for each one of the structures previously considered. Structural properties are not changed by the method choice. However, the total energy per atom can slightly vary.  
   
 <p align="center">
-  <img src="/assets/smear_bccFe_.eps" width="32%" />
-  <img src="/assets/smear_fccNi_.eps" width="32%" /> 
-  <img src="/assets/smear_hcpCo_.eps" width="32%" />
+  <img src="/assets/Smear_bccFe_.eps" width="32%" />
+  <img src="/assets/Smear_fccNi_.eps" width="32%" /> 
+  <img src="/assets/Smear_hcpCo_.eps" width="32%" />
 </p>
 
 
@@ -41,9 +41,9 @@ The right choice of the smearing method should contemplate a correct description
 Experimentally it is known how those metals are ordered, however it is of good sense to confirm it. Figure 3.7 shows the optimization of the lattice considering three of the most common crystal structures: body-centered cubic, face-centered cubic and hexagonal close- packed. As expected bcc Fe, fcc Ni and hcp Co are the most stable crystal systems.  
   
 <p align="center">
-  <img src="/assets/struct_Fe.eps" width="32%" />
-  <img src="/assets/struct_Ni.eps" width="32%" /> 
-  <img src="/assets/struct_Co.eps" width="32%" />
+  <img src="/assets/Struct_Fe.eps" width="32%" />
+  <img src="/assets/Struct_Ni.eps" width="32%" /> 
+  <img src="/assets/Struct_Co.eps" width="32%" />
 </p>
 
 
@@ -53,8 +53,8 @@ Another thing worth verifying is their ferromagnetism. Therefore, figure 3.8 sho
 
 
 <p align="center">
-  <img src="/assets/bccFe_M.eps" width="32%" />
-  <img src="/assets/fccNi_M.eps" width="32%" /> 
-  <img src="/assets/hcpCo_M.eps" width="32%" />
+  <img src="/assets/BccFe_M.eps" width="32%" />
+  <img src="/assets/FccNi_M.eps" width="32%" /> 
+  <img src="/assets/HcpCo_M.eps" width="32%" />
 </p>
 
