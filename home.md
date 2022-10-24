@@ -3,7 +3,7 @@ layout: page
 title: ""
 ---
 
-{% include archive.html title = "Outreach" %}
+{% include archive.html title = "Research Outreach" %}
 
 <!--
 {% if site.show_excerpts %}
