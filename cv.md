@@ -14,4 +14,4 @@ Computer simulations and multiscale modelling of ceramics and multifunctional fe
 
 After finishing my Master, I gained even more interest in studying technologies such as hydrogen storage solutions, CO\(_2\) capture, batteries and electronic devices like solid state diodes, MOSFETs or TJBs and their electrical, magnetic, elastic properties, etc. that play a vital role in the devices we take for granted today.
 
-Adsadasdasd $$Fe$_2$MnSi$$
+Adsadasdasd Fe$$_2$$MnSi
