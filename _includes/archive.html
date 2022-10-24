@@ -3,8 +3,8 @@
   <ul class="archive">
     {% for post in site.posts %}
     <ul>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>,
       <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_string: "ordinal", "US" }}</time>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
     </ul>
     {% endfor %}
   </ul>
