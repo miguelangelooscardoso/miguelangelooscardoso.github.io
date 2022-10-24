@@ -1,10 +1,7 @@
 ---
 layout: page
-title: "Posts"
+title: ""
 ---
 
-asdasdasdas
-asdasdasd
-asdasdasdas
-asdadadasdasda
+{% include cv.html title = "Who am I?" %}
 
