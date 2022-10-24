@@ -1,7 +1,7 @@
 title: "Miguel Cardoso"
 author: "Miguel Cardoso"
 description: "University of Aveiro"
-# permalink: /:title/ 
+permalink: /:title/ 
 lang: "en"
 excerpt_separator: "\n\n\n"
 date_format: "%B %d, %Y"
