@@ -12,7 +12,9 @@ Figure 1. shows a result from a fast calculation performed with a mesh grid 5 ×
 <p align="center">
   <img src="/assets/Bcc_Fe_LDA.eps" width="32%" />
   <img src="/assets/Fcc_Ni_LDA.eps" width="32%" /> 
-  <img src="/assets/Hcp_Co_LDA.eps" width="32%" /> 
+  
+  <img src="{{ "/assets/Fcc_Ni_LDA.eps" | prepend: site.baseurl | prepend: site.url}}" alt="Untitled" />
+<!--  <img src="/assets/Hcp_Co_LDA.eps" width="32%" /> -->
 </p>
 
 
