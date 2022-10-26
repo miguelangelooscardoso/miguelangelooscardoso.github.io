@@ -4,7 +4,7 @@
     {% for post in site.posts %}
     <ul>
       - <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-<!--      <p>(<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string: "ordinal", "US" }}</time>)</p> -->
+      <p>(<time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date_to_long_string: "ordinal", "US" }}</time>)</p> 
     </ul>
     {% endfor %}
   </ul>
