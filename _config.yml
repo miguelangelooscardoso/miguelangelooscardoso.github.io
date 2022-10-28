@@ -10,14 +10,9 @@ date_format: "%B %d, %Y"
 
 show_social: true          # show site description and social links in the footer
 show_frame: true           # adds a gray frame to the site
+show_excerpts: true        # show article excerpts on the home page
 show_sidebar: false        # show a sidebar instead of the usual header
 minimal: false             # use a dark header
-
-# Excerpts
-show_excerpts: true        # show article excerpts on the home page
-jekyll_feed:
-  truncate_excerpts: true # 'false' by default
-  truncate_size: 50 # ensure number
 
 # Menu
 
