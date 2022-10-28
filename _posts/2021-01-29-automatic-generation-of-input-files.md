@@ -1,5 +1,5 @@
 ---
-title:  "Code"
+title:  "Automatic generation of input files"
 mathjax: true
 layout: post
 categories:
