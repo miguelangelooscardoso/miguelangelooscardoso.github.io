@@ -44,7 +44,7 @@ c_exp=`echo "1.8897259885789*${c_exp}"|bc -l`
 # V_exp was divided by 3
 v_exp=`echo "(${a_exp})^2*${c_exp}*sqrt(3)/2"|bc -l` 
 
-# Experimental Lattice ratios
+# Experimental lattice ratios
 ba_exp=$(echo "${b_exp}/${a_exp}"|bc -l)
 ca_exp=$(echo "${c_exp}/${a_exp}"|bc -l)
 
@@ -88,15 +88,15 @@ declare -A arr
 arr1[0,0]=0.5
 arr1[0,1]=`echo "0.5*${ba}"|bc`
 arr1[0,2]=0
-#second vector
+# second vector
 arr2[1,0]=-0.5
 arr2[1,1]=`echo "0.5*${ba}"|bc`
 arr2[1,2]=0
-#third vector
+# third vector
 arr3[2,0]=0
 arr3[2,1]=0
 arr3[2,2]=${ca}
-echo "${arr1[0,0]} ${arr1[0,1]} ${arr1[0,2]}"  # example
+echo "${arr1[0,0]} ${arr1[0,1]} ${arr1[0,2]}"  
 
 vectResult=($(crossProduct arr2 arr3))
 echo ${vectResult[0]} ${vectResult[1]} ${vectResult[2]}
@@ -113,11 +113,11 @@ rws=`echo "e((1/3)*l((${dotProduct}*${a}^3)*(3/(8*4*${pi}))))"|bc -l`
 rmt=`echo "0.85 * $rws"| bc`
 dx=`echo "l($rws / 0.000001) / 720.0" | bc -l`;
 
-# Cartesian sites 1st  and 2nd  were placed directly but there is an expression that defines
+{% endhighlight %}
+
+<!-- # Cartesian sites 1st  and 2nd  were placed directly but there is an expression that defines
 # its positions https://www.cryst.ehu.es/cgi-bin/cryst/programs/nph-wp-list 
 # and M.J. Mehl et al. / Computational Materials Science 136 (2017) S1–S828
-# however it does not depends on a or c, 2nd depends only on the ratio b/a and a constant
-
-{% endhighlight %}
+# however it does not depends on a or c, 2nd depends only on the ratio b/a and a constant -->
 
 Shell scripting is a useful tool to automate our calculations. Not only to generate input files but also to gather information from our output files in an efficient way. To have acess to all those scripts you can acess my github repository [here](https://github.com/miguelangelooscardoso/crystal-structure-optimisation).
