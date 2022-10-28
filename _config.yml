@@ -22,7 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 #  - {title: "Lab", url: ""}
 #  - {file: "home.md", title: "Home", icon: home} 
 #  - {title: "About me", icon: user, url: "https://miguelangelooscardoso.github.io/markdown-cv/"}
-  - {file: "cv.md", title: "Who am I?"} # address-card
+  - {file: "cv.md", title: "about me"} # address-card
 # Font Awesome Icon List
 # https://aksakalli.github.io/jekyll-doc-theme/docs/font-awesome/
 
