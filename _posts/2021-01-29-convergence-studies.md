@@ -9,8 +9,6 @@ categories:
 
 Figure 1. shows a result from a fast calculation performed with a mesh grid 5 × 5 × 5 and a cut-off energy of 350 eV.
 
-<script src="/assets/Bcc_Fe_LDA.eps"></script>
-
 <p align="center">
   <img src="/assets/Bcc_Fe_LDA.eps" width="32%" />
   <img src="/assets/Fcc_Ni_LDA.eps" width="32%" /> 
