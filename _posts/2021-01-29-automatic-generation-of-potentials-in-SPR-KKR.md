@@ -7,7 +7,9 @@ categories:
   - website
 ---
 
-The automatic generation of input files is particularly important when we are performing tens to hundreds or even thousands of calculations. An automation of the disorder on the local Si/Ge of the half-heusler <div class="latex"> Fe_2MnSi </div> in the [Munich Korringa-Kohn-Rostoker Package](https://www.ebert.cup.uni-muenchen.de/old/index.php?option=com_remository&Itemid=20&func=startdown&id=51&lang=de) can be expressed as:
+de$$^2$$m$$\times$$5
+
+The automatic generation of input files is particularly important when we are performing tens to hundreds or even thousands of calculations. An automation of the disorder on the local Si/Ge of the half-heusler Fe$$_2$$MnSi in the [Munich Korringa-Kohn-Rostoker Package](https://www.ebert.cup.uni-muenchen.de/old/index.php?option=com_remository&Itemid=20&func=startdown&id=51&lang=de) can be expressed as:
 
 {% highlight bash %}
 
