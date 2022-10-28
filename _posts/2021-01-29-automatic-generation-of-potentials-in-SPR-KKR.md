@@ -1,5 +1,5 @@
 ---
-title:  "Automatic generation of input files"
+title:  "Automatic generation of potentials in SPR-KKR"
 mathjax: true
 layout: post
 categories:
