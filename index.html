@@ -4,7 +4,9 @@ title: "Home"
 ---
 
 {% if site.show_excerpts %}
+<p align="justify">
   {% include home.html %}
+</p>
 {% else %}
   {% include archive.html title="Posts" %}
 {% endif %}
