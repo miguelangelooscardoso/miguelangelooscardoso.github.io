@@ -5,7 +5,6 @@ layout: post
 categories:
   - github
   - website
-  - media
 ---
 
 Figure 1. shows a result from a fast calculation performed with a mesh grid 5 × 5 × 5 and a cut-off energy of 350 eV.
