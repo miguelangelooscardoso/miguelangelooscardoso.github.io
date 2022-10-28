@@ -28,8 +28,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
 #  - {title: Mail, icon: envelope, url: "mailto:cardosomiguel@ua.pt"}
   - {title: Github, icon: github, url: "https://github.com/miguelangelooscardoso"}
-  - {title: Twitter, icon: twitter, url: "https://miguelangelooscardoso.github.io/nyancat"}
-
+#  - {title: Twitter, icon: twitter, url: "https://miguelangelooscardoso.github.io/nyancat"}
+- {title: LinkedIn, icon: linkedin, url: "https://www.linkedin.com/in/miguelangelooscardoso/"}
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
 #  isso_domain: ""         # see https://posativ.org/isso/
