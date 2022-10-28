@@ -16,7 +16,7 @@ A fast ab initio calculation with the LDA functional was performed with a mesh g
 </p>
 
 
-The exchange-correlation functionals play an important role on determining the structural dimensions of the selected structures. The figures bellow show us  again that the GGA functional tends to overestimate the volume obtained compared to the LDA. On the other side, potentials are also of a hugely importance! According to Kresse et al. [Georg Kresse, Martijn Marsmann, and J ̈urgen Furthm ̈uller. VASP the GUIDE, 2018.](https://www.smcm.iqfr.csic.es/docs/vasp/), the semi-core s and p states should be treated as valence states for d-elements (Fe, Ni and Co). Although reliable results can be achieved if the semi- core states are kept frozen. As long as it does not take too much computational time the first option is always preferred. A fast calculation involving all available pseudopotentials was performed using GGA. The pseudopotential choice has an impact on the energy per atom as we can see bellow.
+The exchange-correlation functionals play an important role on determining the structural dimensions of the selected structures. The figures bellow show us  again that the GGA functional tends to overestimate the volume obtained compared to the LDA. On the other side, potentials are also of a hugely importance! According to Kresse et al. [Georg Kresse, Martijn Marsmann, and J\ ̈urgen Furthm\ ̈uller. VASP the GUIDE, 2018.](https://www.smcm.iqfr.csic.es/docs/vasp/), the semi-core s and p states should be treated as valence states for d-elements (Fe, Ni and Co). Although reliable results can be achieved if the semi- core states are kept frozen. As long as it does not take too much computational time the first option is always preferred. A fast calculation involving all available pseudopotentials was performed using GGA. The pseudopotential choice has an impact on the energy per atom as we can see bellow.
 
 <p align="center">
   <img src="/assets/Fe_pseudo.eps" width="32%" />
@@ -26,7 +26,7 @@ The exchange-correlation functionals play an important role on determining the s
   
 The extensions sv and pv mean that s and p semi-core states are treated as valence states. Other particularities such as Wigner-Seitz radius, the minimum and maximum energy for which the density of states is calculated are important to determine whether or not a pseudopotential is a good choice. 
 
-The right choice of the smearing method should contemplate a correct description of the properties of the system. The following figures show us the Gaussian smearing (0), Fermi smearing (−1) and Tetrahedron method with Bl ̈ochl corrections (−5) for each one of the structures previously considered. Structural properties are not changed by the method choice. However, the total energy per atom can slightly vary.  
+The right choice of the smearing method should contemplate a correct description of the properties of the system. The following figures show us the Gaussian smearing (0), Fermi smearing (−1) and Tetrahedron method with Bl\ ̈ochl corrections (−5) for each one of the structures previously considered. Structural properties are not changed by the method choice. However, the total energy per atom can slightly vary.  
   
 <p align="center">
   <img src="/assets/Smear_bccFe_.eps" width="32%" />
