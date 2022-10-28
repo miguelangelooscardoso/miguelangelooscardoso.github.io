@@ -1,5 +1,5 @@
 ---
-title:  "First impressions with Fe, Ni, Co"
+title:  "Equilibrium properties of elemental ferromagnets"
 mathjax: true
 layout: post
 categories:
