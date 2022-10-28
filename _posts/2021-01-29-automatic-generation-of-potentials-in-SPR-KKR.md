@@ -7,8 +7,6 @@ categories:
   - website
 ---
 
-asdasasdasd Fe$_2$MnSi Do$_{19}$ asdasdasd sdad asd
-
 The automatic generation of input files is particularly important when we are performing tens to hundreds or even thousands of calculations. An automation of the disorder on the local Si/Ge of the half-heusler $Fe_2MnSi$ in the [Munich Korringa-Kohn-Rostoker Package](https://www.ebert.cup.uni-muenchen.de/old/index.php?option=com_remository&Itemid=20&func=startdown&id=51&lang=de) can be expressed as:
 
 {% highlight bash %}
