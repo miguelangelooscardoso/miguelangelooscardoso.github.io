@@ -29,7 +29,7 @@ The creation of a potencial to performe self-consistent and exchange-correlation
 
 {% highlight bash %}
 
-# Create .pot SCF.inp and JXC.inp D019 Fe2MnGe
+<!-- # Create .pot SCF.inp and JXC.inp D019 Fe2MnGe -->
 
 # Experimental Lattice Parameters (angstrom [Å]) (Zhang)
 a_exp=`echo "5.22"|bc -l`
