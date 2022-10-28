@@ -9,11 +9,7 @@ categories:
 
 The Birch-Murnaghan equation of state was used in order to determines the lattice parameter which would minimize the ground state energy [Physical Review, 71(11):809–824][Birch] and [Proceedings of the National Academy of Science, 30(9):244–247][Murnaghan].
 
-[$$ \scriptsize{E(V)=E_0+\frac{9V_0B_0}{16}\Bigg{\Bigg[\Bigg(\frac{V_0}{V}\Bigg)^\frac{2}{3}-1\Bigg]^3B'_0+\Bigg[\Bigg(\frac{V_0}{V}\Bigg)^\frac{2}{3}-1\Bigg]^2\Bigg[6-4\Bigg(\frac{V_0}{V}\Bigg)^\frac{2}{3}\Bigg] \Bigg}}$$ ]
-
-
-
-
+$$\scriptsize{E(V)=E_0+\frac{9V_0B_0}{16}\Bigg\{\Bigg[\Bigg(\frac{V_0}{V}\Bigg)^\frac{2}{3}-1\Bigg]^3B'_0+\Bigg[\Bigg(\frac{V_0}{V}\Bigg)^\frac{2}{3}-1\Bigg]^2\Bigg[6-4\Bigg(\frac{V_0}{V}\Bigg)^\frac{2}{3}\Bigg] \Bigg\}}$$
 
 Here, the fit parameters E$$_0$$, V$$_0$$, B$$_0$$ and B'$$_0$$ are the energy at the minimum, the equilibrium volume, 
 the bulk modulus at the equilibrium and the derivative of the bulk modulus with respect to pressure, respectively. 
