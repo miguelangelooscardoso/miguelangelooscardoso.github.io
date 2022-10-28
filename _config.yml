@@ -20,9 +20,9 @@ minimal: false             # use a dark header
 navigation:                # accepts {file, title, url, icon, sidebaricon}
 #  - {file: "cardoso.pdf", tile: "CV", icon: home}
 #  - {title: "Lab", url: ""}
-  - {file: "home.md", title: "Home", icon: home} 
+#  - {file: "home.md", title: "Home", icon: home} 
 #  - {title: "About me", icon: user, url: "https://miguelangelooscardoso.github.io/markdown-cv/"}
-  - {file: "cv.md", title: "About me", icon: user} # address-card
+  - {file: "cv.md", title: "whoami"} # address-card
 # Font Awesome Icon List
 # https://aksakalli.github.io/jekyll-doc-theme/docs/font-awesome/
 
