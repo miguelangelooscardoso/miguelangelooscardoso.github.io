@@ -5,7 +5,7 @@ layout: post
 categories:
  - github
  - website
-excerpt: The Birch-Murnaghan equation of state was used in order to determines the lattice parameter which would minimize the ground state energy [Physical Review, 71(11):809–824][Birch] and [Proceedings of the National Academy of Science, 30(9):244–247][Murnaghan]. Other computational studies on this three ferromagnetic metals already had been performed and compared to its experimental ones. Our calculations seems to agree with both studies. GGA functional seems to be a better representation of the volume. Although LDA underestimates the volume of the three ferromagnets, it over estimates the bulk modulus, not being a better representation than GGA again. On the other side, LDA seems to represent better the magnetic moment of face-centered cubic (fcc) Nickel and body-centered cubic (bcc) Iron while the hexagonal close-packed (hcp) Cobalt is better represented by the GGA functional calculation.
+excerpt: The Birch–Murnaghan isothermal equation of state, published in 1947 by Albert Francis Birch of Harvard, determines the lattice parameter which would minimize the ground state energy. Several computational studies have been made across the years on three of the most common ferromagnetic metals and compared to its experimental properties. There is no better place to start than by a widely studied subject before advancing to more complex materials. Thus, LDA and GGA functionals were used to estimate the bulk modulus and the volume/energy of equilibrium of iron, nickel and cobalt.  
 ---
 
 
