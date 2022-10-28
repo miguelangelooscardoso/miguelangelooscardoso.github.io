@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ""
+title: "Who am I?"
 mathjax: true
 ---
 
-# Who am I?
+# 
 
 My bachelor project choice was an easy decision. Among photonics and optoelectronics, advanced materials, instrumentation, theoretical and computational physics seemed to be the area that suited me the most by far. I have always had an interest in challenging my capabilities. My project submitted as “Numerical study of heat conduction in a bar (1D)” allowed me to combine my analytical and numerical skills. The heat propagation equation was deducted and implemented in MatLab using implicit/explicit Euler and Crank-Nicolson methods for several boundary conditions and materials.
 
