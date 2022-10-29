@@ -5,7 +5,7 @@ layout: post
 categories:
  - github
  - website
-excerpt: The Birch–Murnaghan isothermal equation of state, published in 1947 by Albert Francis Birch of Harvard, determines the lattice parameter which would minimize the ground state energy. Several computational studies have been made across the years on three of the most common ferromagnetic metals and compared to its experimental properties. There is no better place to start than by a widely studied subject before advancing to more complex materials. Thus, LDA and GGA functionals were used to estimate the bulk modulus and the volume/energy of equilibrium of iron, nickel and cobalt.  
+excerpt: The Birch–Murnaghan isothermal equation of state determines the lattice parameter which would minimize the ground state energy. Several computational studies have been made across the years on three of the most common ferromagnetic metals compared to their experimental properties. There is no better place to start than with a widely studied subject before advancing to more complex materials. Thus, LDA and GGA functionals were used to estimate the bulk modulus and the volume/energy of equilibrium of iron, nickel, and cobalt.  
 ---
 
 
