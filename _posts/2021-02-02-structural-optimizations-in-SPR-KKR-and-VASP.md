@@ -21,4 +21,4 @@ The same structural optimization was calculated using VASP, at left using the LD
   <img src="/assets/VASP_PBE.jpg" width="49%" /> 
 </p>
 
-After all, the optimized volumes are V$$^{GGA}$$=96.1\AA$$^{3}$$ and V$$^{LDA}$$=86.1 \AA$$^{3}$$ using VASP. We now can calculate othe properties which may be of our interest.
+After all, the optimized volumes are V$$_{GGA}$$=96.1 Å$$^{3}$$ and V$$_{LDA}$$=86.1 Å$$^{3}$$ using VASP. We now can calculate othe properties which may be of our interest.
