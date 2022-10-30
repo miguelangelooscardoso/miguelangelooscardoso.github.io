@@ -10,9 +10,9 @@ categories:
 A fast ab initio calculation with the LDA functional was performed with a mesh grid 5 × 5 × 5 and a cut-off energy of 350 eV on bcc iron, fcc nickel and hcp cobalt as you can see in the following images.
 
 <p align="center">
-   <img src="/assets/bcc_Fe_LDA.jpg" width="32%" />
-   <img src="/assets/fcc_Ni_LDA.jpg" width="32%" /> 
-   <img src="/assets/hcp_Co_LDA.jpg" width="32%" />
+   <img src="/assets/Bcc_Fe_LDA.jpg" width="32%" />
+   <img src="/assets/Fcc_Ni_LDA.jpg" width="32%" /> 
+   <img src="/assets/Hcp_Co_LDA.jpg" width="32%" />
 </p>
 
 The exchange-correlation functionals play an important role on determining the structural dimensions of the selected structures. The figures bellow show us  again that the GGA functional tends to overestimate the volume obtained compared to the LDA. On the other side, potentials are also of a hugely importance! According to Kresse et al. [Georg Kresse, Martijn Marsmann, and Jürgen Furthmüller. VASP the GUIDE, 2018.](https://www.smcm.iqfr.csic.es/docs/vasp/), the semi-core s and p states should be treated as valence states for d-elements (Fe, Ni and Co). Although reliable results can be achieved if the semi- core states are kept frozen. As long as it does not take too much computational time the first option is always preferred. A fast calculation involving all available pseudopotentials was performed using GGA. The pseudopotential choice has an impact on the energy per atom as we can see bellow.
