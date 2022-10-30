@@ -1,5 +1,5 @@
 ---
-title:  "VASP and SPR Structural optimizations"
+title:  "Structural optimizations in SPR-KKR and VASP"
 mathjax: true
 layout: post
 categories:
@@ -20,4 +20,4 @@ The Vienna Ab initio Simulation Package and the Munich Spin-Polarized Relativist
 \end{figure}
 \clearpage
 
-Figure \ref{KKR_VASP} shows SPR-KKR structural parameters optimization above and VASP below. At left, optimizations were made using LDA and at right using GGA. With SPR-KKR no energy minimum was found, however with VASP absolute minimums were found to (0.86,1.00) and (0.96,1.00) with LDA and GGA, respectively. While c/a is approximately equal to the experimental one reported by Keshavarz et al. \cite{KESHAVARZ2019793}, volume is too far away from it in the LDA case. Therefore, the optimized volumes are V$^{GGA}$=96.1\AA$^{3}$ and V$^{LDA}$=86.1 \AA$^{3}$. A major effort was made to reach a minimum value with GGA using SPR-KKR. 
+The figure shows SPR-KKR structural parameters optimization above and VASP below. At left, optimizations were made using LDA and at right using GGA. With SPR-KKR no energy minimum was found, however with VASP absolute minimums were found to (0.86,1.00) and (0.96,1.00) with LDA and GGA, respectively. While c/a is approximately equal to the experimental one reported by Keshavarz et al. \cite{KESHAVARZ2019793}, volume is too far away from it in the LDA case. Therefore, the optimized volumes are V$^{GGA}$=96.1\AA$^{3}$ and V$^{LDA}$=86.1 \AA$^{3}$. 
