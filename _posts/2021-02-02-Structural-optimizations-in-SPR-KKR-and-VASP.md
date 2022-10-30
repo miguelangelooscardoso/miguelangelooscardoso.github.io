@@ -12,6 +12,7 @@ The Vienna Ab initio Simulation Package and the Munich Spin-Polarized Relativist
 <p align="center">
   <img src="/assets/SPRKKR_LDA.jpg" width="49%" />
   <img src="/assets/SPRKKR_PBE.jpg" width="49%" /> 
+  <caption style="text-align:center">My savings</caption>
 </p>
 
 <p align="center">
