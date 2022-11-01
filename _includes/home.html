@@ -2,11 +2,6 @@
 {% for post in posts %}
   <article>
     {% include meta.html post=post preview=true %}
-    
-    //IMAGE
-    <img src="{{ site.baseurl }}/assets/{{ post.image }}">
-    //IMAGE
-    
     {{ post.excerpt }}
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
   </article>
