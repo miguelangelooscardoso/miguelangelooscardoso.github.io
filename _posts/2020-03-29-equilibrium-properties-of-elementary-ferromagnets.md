@@ -1,5 +1,5 @@
 ---
-title:  "Equilibrium properties of elemental ferromagnets"
+title:  "Equilibrium properties of elementary ferromagnets"
 mathjax: true
 layout: post
 categories:
