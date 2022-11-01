@@ -3,8 +3,6 @@
   <article>
     {% include meta.html post=post preview=true %}
     {{ post.excerpt }}
-    {% assign image = post.images[0] %}
-    {% include image.html image=image %}
     <div class="more"><a href="{{ post.url | relative_url }}">read more</a></div>
   </article>
 {% endfor %}
