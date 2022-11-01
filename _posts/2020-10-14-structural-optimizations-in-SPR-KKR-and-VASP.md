@@ -1,5 +1,5 @@
 ---
-title:  "Structural optimizations of half-heusler Fe$$_2$$MnGe"
+title:  "Structural optimizations"
 mathjax: true
 layout: post
 categories:
