@@ -27,7 +27,7 @@ conc_1=`echo "0.1 * $k" | bc`
 
 
 
-The creation of a potencial to performe self-consistent and exchange-correlation calculations is a must. The experimental lattice parameters of Fe$$_2$$MnGe DO$$_{19}$$ obtained experimentally by Zhang et al. in the [Journal of Alloys and Compounds, 352(1):99 – 102, 2003](https://doi.org/10.1016/S0925-8388(02)01116-7) were used to calculate the experimental volume of the cell in atomic units.
+The creation of a potencial to perform self-consistent and exchange-correlation calculations is a must. The experimental lattice parameters of Fe$$_2$$MnGe DO$$_{19}$$ obtained experimentally by Zhang et al. in the [Journal of Alloys and Compounds, 352(1):99 – 102, 2003](https://doi.org/10.1016/S0925-8388(02)01116-7) were used to calculate the experimental volume of the cell in atomic units.
 
 <!-- # Create .pot SCF.inp and JXC.inp D019 Fe2MnGe -->
 
