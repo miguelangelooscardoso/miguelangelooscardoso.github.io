@@ -5,7 +5,11 @@ layout: post
 categories:
   - github
   - website
-image: /assets/VASP_PBE.jpg
+images:
+
+  - url: /assets/VASP_PBE.jpg
+    alt: Cypripedium Calceolum
+    title: Cypripedium Calceolum
 ---
 
 The Vienna Ab initio Simulation Package and the Munich Spin-Polarized Relativistic Korringa-Kohn-Rostoker package use different approaches to calculate the ground state energy of a structure. Even without an ionic relaxation is still important to perform an electronic relaxation before we calculate some of its properties such as its exchange–correlation energies. Beyond that, we can compare the obtained results to the well known experimental properties of the crystalline structure. Variations of 1% from -10% to +10% of the experimental [Keshavarz et al.](https://doi.org/10.1016/j.jallcom.2018.07.298) volume and c/a were applied using SPR-KKR. The LDA functional (at the left) could not predict the ground state. Trying the GGA functional (at the right) we reach the conclusion that SPR-KKR amy not be tthe best option to optimize the D0$$_{19}$$ Fe$$_{2}$$MnGe structure
