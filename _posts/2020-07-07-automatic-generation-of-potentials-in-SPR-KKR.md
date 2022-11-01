@@ -122,4 +122,4 @@ dx=`echo "l($rws / 0.000001) / 720.0" | bc -l`;
 # and M.J. Mehl et al. / Computational Materials Science 136 (2017) S1–S828
 # however it does not depends on a or c, 2nd depends only on the ratio b/a and a constant -->
 
-Shell scripting is a useful tool to automate our calculations. Not only to generate input files but also to gather information from our output files in an efficient way. To have acess to all those scripts you can acess my github repository [here](https://github.com/miguelangelooscardoso/crystal-structure-optimisation).
+Shell scripting is a useful tool to automate our calculations. Not only to generate input files but also to gather information from our output files in an efficient way. To have acess to all those scripts you can access my github repository [here](https://github.com/miguelangelooscardoso/crystal-structure-optimisation).
