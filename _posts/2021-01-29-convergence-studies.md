@@ -15,6 +15,8 @@ A fast ab initio calculation with the LDA and GGA functionals was performed with
    <img src="/assets/Hcp_co_LDA.jpg" width="32%" />
 </p>
 
+
+
 The exchange-correlation functionals play an important role on determining the structural dimensions of the selected structures. The figures bellow show us  again that the GGA functional tends to overestimate the volume obtained compared to the LDA. On the other side, potentials are also of a hugely importance! According to [Kresse et al.](https://www.smcm.iqfr.csic.es/docs/vasp/), the semi-core s and p states should be treated as valence states for d-elements (Fe, Ni and Co). Although reliable results can be achieved if the semi- core states are kept frozen. As long as it does not take too much computational time the first option is always preferred. A fast calculation involving all available pseudopotentials was performed using GGA. The pseudopotential choice has an impact on the energy per atom as we can see bellow.
 
 <p align="center">
