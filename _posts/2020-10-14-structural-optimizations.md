@@ -5,7 +5,7 @@ layout: post
 categories:
   - github
   - website
-excerpt: <img hspace="20" align="left" src="/assets/VASP_PBE.jpg" width="50%" height="50%">
+excerpt: <img align="left" src="/assets/VASP_PBE.jpg" width="50%" height="50%">
 <p align="justify" class="indent"> The Vienna Ab initio Simulation package and the Munich Spin-Polarized Relativistic Korringa-Kohn-Rostoker package use different approaches to calculate the ground state energy of a structure. Even without an ionic relaxation, it is important to perform an electronic relaxation before calculating some of its properties, such as its exchange-correlation energies. Thus, before calculating these values, we can compare the experimentally known properties with the computational results to validate the model.</p>
 ---
 
