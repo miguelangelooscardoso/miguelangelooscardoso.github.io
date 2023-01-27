@@ -15,27 +15,6 @@ body
   body
     background: $dark
     color: $dark
-
-@media (prefers-color-scheme: light)
-  body
-    background: $light
-    color: $light
-    
-function applyDarkMode() {
-  document.body.classList.add('dark-mode-active')
-  document.body.classList.remove('light-mode-active')
-}
-
-function applyLightMode() {
-  document.body.classList.add('light-mode-active')
-  document.body.classList.remove('dark-mode-active')
-}
-
-if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-  applyDarkMode()
-} else {
-  applyLightMode()
-}
     
 h1, h2, h3, h4, h5, h6
   font-weight: $heading-weight
