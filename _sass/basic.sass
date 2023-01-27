@@ -1,5 +1,5 @@
 body
-  background: $light
+  background: var(--background-color)
   color: $dark
   font-family: $font-family
   font-weight: $font-weight
@@ -11,10 +11,14 @@ body
   -webkit-font-smoothing: antialiased
   -moz-osx-font-smoothing: grayscale
 
-@media (prefers-color-scheme: dark)
-  body
-    background: $dark
-    color: $dark
+@media (prefers-color-scheme: dark) {
+	html {
+		--light-text-color: rgb(199, 199, 204);
+  		--link-color: rgb( 100, 210, 255);
+  		--main-background-color: rgb(28, 28, 30);
+  		--main-text-color: rgb(229, 229, 234);
+	}
+}
 
 h1, h2, h3, h4, h5, h6
   font-weight: $heading-weight
