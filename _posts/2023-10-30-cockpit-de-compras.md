@@ -21,39 +21,62 @@ B - Caixa esquerda inferior – Lista de entradas para funções de consulta do 
 
 C - Caixa direita do ecrã – detalhe da função escolhida
 
-![Layout](/assets/img/Layout.png)
+<p align="center">
+   <img src="/assets/img/Layout.png" width="50%" />
+</p>
 
 ## Tarefas de Compras
 
 ### Minhas Requisições
 
 #### Seleção de requisições a liberar (ou cancelar liberação).
-![1.1](/assets/img/1.1.png)
+
+<p align="center">
+   <img src="/assets/img/1.1.png" width="50%" />
+</p>
 
 #### Exibição de detalhes relativos a cada item e requisição (data de remessa, quantidade...):
-![1.1_detalhes](/assets/img/1.1_detalhes.png)
+
+<p align="center">
+   <img src="/assets/img/1.1_detalhes.png" width="50%" />
+</p>
 
 ### Meus Pedidos de Compra
 
 #### Seleção de pedidos a liberar (ou cancelar liberação).
-![1.2](/assets/img/1.2.png)
+
+<p align="center">
+   <img src="/assets/img/1.2.png" width="50%" />
+</p>
 
 #### Pré-visualização e impressão do pedido de compra a enviar ao fornecedor:
-![1.2_smartform](/assets/img/1.2_smartform.png)
+
+<p align="center">
+   <img src="/assets/img/1.2_smartform.png" width="50%" />
+</p>
 
 ### Preços
 
 #### Carregamento de preços por Batch Input:
-![1.3](/assets/img/1.3.png)
+
+<p align="center">
+   <img src="/assets/img/1.3.png" width="50%" />
+</p>
 
 ## Processo
 
 ### Ver Processo Por Requisição
 
 #### Status por item de cada requisição:
-![2.1](/assets/img/2.1.png)
+
+<p align="center">
+   <img src="/assets/img/2.1.png" width="50%" />
+</p>
 
 ### Ver Resumo Por Número de Pedido
 
 #### Relação entre o número de pedido e o preço líquido (ALV de barras horizontais):
-![2.2](/assets/img/2.2.png)
+
+<p align="center">
+   <img src="/assets/img/2.2.png" width="50%" />
+</p>
