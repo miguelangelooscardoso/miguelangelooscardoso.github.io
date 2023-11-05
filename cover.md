@@ -15,6 +15,8 @@ Computational simulations and multiscale modelling of ceramics and multifunction
 
 After concluding my studies, my interest in technologies such as hydrogen storage solutions, CO$$_2$$ capture, and batteries increased a lot. Definitely, my academic years gave me another perspective on those technologies, and I am proud of that.
 
+Currently, I have been investing in developing my programming skills, logical reasoning, and understanding of systems operations, thereby expanding my skill set to encompass software development, data management, and SAP solutions. Moreover, my commitment to a successful career transition into the technology sector is underscored by my dedication to continuously enhance my skills and embrace new challenges in the ever-evolving digital landscape.
+
 
 
 
