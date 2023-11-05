@@ -5,7 +5,7 @@ layout: post
 categories:
   - github
   - website
-excerpt: <p align="justify"> O cockpit de compras oferece uma plataforma user-friendly ao utilizador de modo a gerir informação da organização de modo mais eficiente.</p><img align="center" src="/assets/img/Layout.png" width="75%" height="75%">
+excerpt: <p align="justify"> O cockpit de compras oferece uma plataforma user-friendly ao utilizador de modo a gerir informação da organização de modo mais eficiente.</p><center><img align="center" src="/assets/img/Layout.png" width="50%" height="50%"></center>
 ---
 
 # Cockpit de Compras
