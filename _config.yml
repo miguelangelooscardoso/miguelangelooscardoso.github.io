@@ -1,7 +1,7 @@
 title: "Miguel Cardoso"
-author: ""
-description: ""
-email: ""
+# author: ""
+# description: ""
+# email: ""
 permalink: /:title/ 
 lang: "en"
 excerpt_separator: "\n\n\n"
