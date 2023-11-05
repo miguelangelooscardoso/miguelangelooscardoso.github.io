@@ -5,6 +5,7 @@ layout: post
 categories:
   - github
   - website
+  excerpt: <p align="justify"> O cockpit de compras oferece uma plataforma user-friendly ao utilizador de modo a gerir informação da organização de modo mais eficiente.</p><img align="left" src="/assets/img/Layout.png" width="33%" height="33%">
 ---
 
 # Cockpit-de-Compras
@@ -54,5 +55,5 @@ C - Caixa direita do ecrã – detalhe da função escolhida
 
 ### Ver Resumo Por Número de Pedido
 
-Relação entre o número de pedido e o preço líquido (ALV de barras horizontais):
+#### Relação entre o número de pedido e o preço líquido (ALV de barras horizontais):
 ![2.2](assets/img/2.2.png)
