@@ -8,7 +8,7 @@ categories:
   excerpt: <p align="justify"> O cockpit de compras oferece uma plataforma user-friendly ao utilizador de modo a gerir informação da organização de modo mais eficiente.</p><img align="left" src="/assets/img/Layout.png" width="33%" height="33%">
 ---
 
-# Cockpit-de-Compras
+# Cockpit de Compras
 
 O cockpit de compras oferece uma plataforma user-friendly ao utilizador de modo a gerir informação da organização de modo mais eficiente.
 
