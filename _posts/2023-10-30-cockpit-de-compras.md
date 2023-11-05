@@ -81,4 +81,4 @@ C - Caixa direita do ecrã – detalhe da função escolhida
    <img src="/assets/img/2.2.png" width="50%" />
 </p>
 
-O repositório pode ser acessado em [repo](https://github.com/miguelangelooscardoso/Cockpit-de-Compras).
+O repositório pode ser acessado através deste [link](https://github.com/miguelangelooscardoso/Cockpit-de-Compras).
