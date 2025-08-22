@@ -14,6 +14,30 @@ excerpt: </p><left><img src="/assets/setpoints.png" width="33%" height="33%"></l
 
 The Spacecraft Thermal Control System (STCS) represents a sophisticated embedded systems project designed to address the critical thermal management challenges faced by spacecraft in the harsh environment of space. The system ensures **mission longevity, crew safety, and technological reliability** through a distributed architecture that combines real-time simulation, precise control algorithms, and comprehensive visualization capabilities.
 
+{:.mycenter}
+
+![Setpoints Configuration](/assets/setpoints.png){: width="45%" }
+![Temperature Graph](/assets/graph.png){: width="45%" }
+
+<style>
+.mycenter {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+    margin: 20px 0;
+}
+
+.mycenter img {
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+</style>
+
+
 ## System Architecture
 
 The STCS implements a multi-device distributed architecture with three specialized processing units, each serving a distinct function:
@@ -77,7 +101,7 @@ void controllerTask(void *pvParameters) {
 
 {:.mycenter}
 
-![title](/assets/vui.png){: width="50%" }
+![title](/assets/vui.png){: width="100%" }
 
 <style>
 .mycenter {
