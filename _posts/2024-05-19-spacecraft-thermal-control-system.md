@@ -63,10 +63,10 @@ The system uses custom UART-based communication with structured data framing:
 ```cpp
 // Thermal control task implementation
 void controllerTask(void *pvParameters) {
-    HML_UBRT_Transmit(&huart6, (uint8_t*)thermistors,
+    HAL_UART_Transmit(&huart6, (uint8_t*)thermistors,
                       sizeof(Thermistor) * NUM_THERMISTORS, HAL_MAX_DELAY);
     char msg[] = "T1=64,T2=64,T3=64,T4=64 H1=64,H2=64,H3=64,H4=64\n";
-    HML_UBRT_Transmit(&huart7, (uint8_t*)msg, strlen(msg), HAL_MAX_DELAY);
+    HAL_UART_Transmit(&huart7, (uint8_t*)msg, strlen(msg), HAL_MAX_DELAY);
     vTaskDelay(pdMS_TO_TICKS(ctrl_delay));
 }
 ```
