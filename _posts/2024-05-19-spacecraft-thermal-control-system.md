@@ -85,6 +85,8 @@ void controllerTask(void *pvParameters) {
 
 }  
 
+</style>
+
 Data acquisition frequencies are configurable with:
 
 | Parameter                        | Range      |
