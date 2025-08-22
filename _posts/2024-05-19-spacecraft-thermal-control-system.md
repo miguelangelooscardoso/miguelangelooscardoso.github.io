@@ -7,7 +7,7 @@ categories:
  - website
  - embedded-systems
  - aerospace
-excerpt: <p align="justify">The Spacecraft Thermal Control System (STCS) is a comprehensive embedded platform that simulates thermal management of spacecraft components in orbital conditions. Developed using multiple STM32 microcontrollers, FreeRTOS, and MQTT protocols, the system implements real-time thermal simulation, PID control algorithms, and multi-interface visualization. This project demonstrates advanced embedded systems programming with direct applications in aerospace technology and real-time control systems.</p><left><img src="/assets/setpoints.png" width="75%" height="75%"></left>
+excerpt: </p><left><img src="/assets/setpoints.png" width="33%" height="33%"></left><p align="justify">The Spacecraft Thermal Control System (STCS) is a comprehensive embedded platform that simulates thermal management of spacecraft components in orbital conditions. Developed using multiple STM32 microcontrollers, FreeRTOS, and MQTT protocols, the system implements real-time thermal simulation, PID control algorithms, and multi-interface visualization. This project demonstrates advanced embedded systems programming with direct applications in aerospace technology and real-time control systems.
 ---
 
 ## Project Overview
