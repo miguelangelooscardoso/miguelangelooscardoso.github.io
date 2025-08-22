@@ -71,6 +71,8 @@ void controllerTask(void *pvParameters) {
 }
 ```
 
+---
+
 ## Real-time Data Processing
 
 Data acquisition frequencies are configurable with:
