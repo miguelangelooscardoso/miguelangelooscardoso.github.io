@@ -71,16 +71,15 @@ void controllerTask(void *pvParameters) {
 }
 ```
 
----
-
 ## Real-time Data Processing
 
 Data acquisition frequencies are configurable with:
- | Parameter                        | Range      |
- |----------------------------------|------------|
- | TCF_Data_Aquisition_Frequency    | 1-5Hz      |
- | VUI_Data_Aquisition_Frequency    | 1-5Hz      |
- | VUI_Plot_Time_Range             | 1-75 sec   |
+
+| Parameter                        | Range      |
+|----------------------------------|------------|
+| TCF_Data_Aquisition_Frequency    | 1-5Hz      |
+| VUI_Data_Aquisition_Frequency    | 1-5Hz      |
+| VUI_Plot_Time_Range              | 1-75 sec   |
 
 The system supports two operational modes:
 
