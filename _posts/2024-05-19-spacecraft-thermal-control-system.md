@@ -89,7 +89,7 @@ The system supports two operational modes:
 - **Manual Mode:** Direct heater control for testing purposes
 
 <p align="center">
-  <img src="assets/stcs-architecture.png" alt="STCS Architecture" width="75%"/>
+  <img src="assets/vui.png" alt="Visualization User Interface" width="75%"/>
 </p>
 
 ---
