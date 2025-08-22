@@ -88,9 +88,15 @@ The system supports two operational modes:
 - **PID Mode:** Closed-loop control with continuous adjustment
 - **Manual Mode:** Direct heater control for testing purposes
 
-<p align="center">
-  <img src="assets/vui.png" alt="Visualization User Interface" width="75%"/>
-</p>
+{:.mycenter}
+
+![title](/assets/vui.png){: width="65%" }
+
+<style>
+.mycenter {
+    text-align:center;
+
+}  
 
 ---
 
