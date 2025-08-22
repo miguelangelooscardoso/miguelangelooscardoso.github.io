@@ -16,25 +16,14 @@ The Spacecraft Thermal Control System (STCS) represents a sophisticated embedded
 
 {:.mycenter}
 
-![Setpoints Configuration](/assets/setpoints.png){: width="45%" }
-![Temperature Graph](/assets/graph.png){: width="45%" }
+![title](/assets/setpoints.png){: width="45%" }
 
 <style>
 .mycenter {
-    text-align: center;
-    display: flex;
-    justify-content: center;
-    gap: 20px;
-    flex-wrap: wrap;
-    margin: 20px 0;
-}
+    text-align:center;
 
-.mycenter img {
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    padding: 5px;
-    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
-}
+}  
+
 </style>
 
 
@@ -101,7 +90,7 @@ void controllerTask(void *pvParameters) {
 
 {:.mycenter}
 
-![title](/assets/vui.png){: width="100%" }
+![title](/assets/vui.png){: width="150%" }
 
 <style>
 .mycenter {
