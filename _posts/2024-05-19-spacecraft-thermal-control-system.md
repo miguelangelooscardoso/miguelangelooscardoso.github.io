@@ -58,16 +58,69 @@ Where entropy-based variations ($$\epsilon_{entropy}$$) simulate real-space envi
 ### Communication Protocol
 The system uses custom UART-based communication with structured data framing:
 
+## Code Implementation
+
 ```cpp
 // Thermal control task implementation
 void controllerTask(void *pvParameters) {
-    // Transmit thermistor data
-    HML_UBRT_Transmit(&huart6, (uint8_t*)thermistors, 
+    HML_UBRT_Transmit(&huart6, (uint8_t*)thermistors,
                       sizeof(Thermistor) * NUM_THERMISTORS, HAL_MAX_DELAY);
-    
-    // Send control message with formatted data
-    char control_msg[] = "T1=64,T2=64,T3=64,T4=64|H1=64,H2=64,H3=64,H4=64|S1=-7,S2=-5,S3=10,S4=-14\n";
-    HML_UBRT_Transmit(&huart7, (uint8_t*)control_msg, strlen(control_msg), HAL_MAX_DELAY);
-    
+    char msg[] = "T1=64,T2=64,T3=64,T4=64 H1=64,H2=64,H3=64,H4=64\n";
+    HML_UBRT_Transmit(&huart7, (uint8_t*)msg, strlen(msg), HAL_MAX_DELAY);
     vTaskDelay(pdMS_TO_TICKS(ctrl_delay));
 }
+```
+
+---
+
+## Real-time Data Processing
+
+Data acquisition frequencies are configurable with:
+ | Parameter                        | Range      |
+ |----------------------------------|------------|
+ | TCF_Data_Aquisition_Frequency    | 1-5Hz      |
+ | VUI_Data_Aquisition_Frequency    | 1-5Hz      |
+ | VUI_Plot_Time_Range             | 1-75 sec   |
+
+The system supports two operational modes:
+
+- **PID Mode:** Closed-loop control with continuous adjustment
+- **Manual Mode:** Direct heater control for testing purposes
+
+<p align="center">
+  <img src="assets/stcs-architecture.png" alt="STCS Architecture" width="75%"/>
+</p>
+
+---
+
+## Implementation Details
+
+The project was developed using:
+
+- STM32CubeIDE for microcontroller programming
+- FreeRTOS for task scheduling and management
+- TouchGFX for embedded GUI development
+- Node-RED for web-based dashboard
+- MQTT protocol for real-time data streaming
+
+Configuration parameters are stored in flash memory:
+
+```c
+// Setpoint constraints
+Setpoint_THERM-01 = -7
+Setpoint_THERM-02 = -5
+Setpoint_THERM-03 = 10
+Setpoint_THERM-04 = -14
+```
+
+---
+
+## Educational Context
+
+This project was developed as part of the **C/C++ Embedded Systems Programming** curriculum at **Politécnico de Coimbra (Oct 2024 – Aug 2025)**, focusing on:
+
+- Real-time operating systems implementation
+- Multi-device communication protocols
+- Control theory applications in embedded systems
+- Space environment simulation techniques
+
