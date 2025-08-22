@@ -75,6 +75,16 @@ void controllerTask(void *pvParameters) {
 
 ## Real-time Data Processing
 
+{:.mycenter}
+
+![title](/assets/vui.png){: width="100%" }
+
+<style>
+.mycenter {
+    text-align:center;
+
+}  
+
 Data acquisition frequencies are configurable with:
 
 | Parameter                        | Range      |
@@ -87,16 +97,6 @@ The system supports two operational modes:
 
 - **PID Mode:** Closed-loop control with continuous adjustment
 - **Manual Mode:** Direct heater control for testing purposes
-
-{:.mycenter}
-
-![title](/assets/vui.png){: width="65%" }
-
-<style>
-.mycenter {
-    text-align:center;
-
-}  
 
 ---
 
