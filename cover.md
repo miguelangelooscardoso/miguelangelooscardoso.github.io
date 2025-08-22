@@ -17,7 +17,6 @@ Building on this curiosity, I recently completed an intensive C/C++ embedded sys
 
 Additionally, during my internship at Critical Software, I contributed to international, multidisciplinary teams, developing unit tests to improve coverage for Data Pool and PUS-C Library services. I designed and deployed uKarvel, a lightweight version of the Karvel framework, on an ATmega328P-based rover with PUS-compliant telecommand and telemetry handling, enabling end-to-end mission control via Lighthouse. Collaborating across time zones and with diverse engineering backgrounds strengthened both my technical and teamwork skills, reaffirming my interest in embedded systems and real-time control in practical, high-stakes environments.
 
-I am eager to bring this blend of theoretical insight, practical experience, and collaborative problem-solving to future projects that push the boundaries of engineering and technology, while continuing to learn and grow as an engineer.
-
+My academic and professional journey—spanning theoretical physics, computational modeling, and embedded systems—has shaped me into a versatile engineer with a passion for innovation. I am eager to leverage my analytical mindset, technical expertise, and collaborative spirit to tackle challenges at the forefront of engineering and technology, and to continue growing in environments that demand both precision and creativity.
 
 
