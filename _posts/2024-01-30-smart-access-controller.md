@@ -1,5 +1,5 @@
 ---
-title: "Smart Access Controller: Secure Environment Monitoring with Arduino"
+title: "Smart Access Controller"
 mathjax: true
 layout: post
 categories:
