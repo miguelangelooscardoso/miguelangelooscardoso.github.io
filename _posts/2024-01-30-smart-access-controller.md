@@ -33,8 +33,6 @@ The system architecture employs an Arduino Mega board with multiple integrated c
 
 The code implements state management for different operational modes (authentication, monitoring, configuration) and features debounced button inputs for reliable menu navigation. Environmental thresholds are stored in an array structure allowing for easy adjustment and expansion.
 
-This project demonstrates how to create a comprehensive embedded system that combines security, environmental monitoring, and automation in a single package. The modular design allows for additional sensors and actuators to be integrated, making it an excellent foundation for more complex home or industrial automation systems.
-
 {:.mycenter}
 
 ![Smart Access Controller Diagram](/assets/smart_access.png){: width="45%" }
@@ -43,6 +41,8 @@ This project demonstrates how to create a comprehensive embedded system that com
 .mycenter {
     text-align:center;
 }  
+
+This project demonstrates how to create a comprehensive embedded system that combines security, environmental monitoring, and automation in a single package. The modular design allows for additional sensors and actuators to be integrated, making it an excellent foundation for more complex home or industrial automation systems.
 </style>
 
 [Project Repository][GitHubLink]
