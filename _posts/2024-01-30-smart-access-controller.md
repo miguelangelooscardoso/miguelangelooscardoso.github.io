@@ -6,7 +6,7 @@ categories:
  - arduino
  - embedded systems
  - iot
-excerpt: <p align="justify">The Smart Access Controller is an integrated Arduino-based system that combines RFID authentication, keypad input, and environmental monitoring to create a versatile access control and automation solution. Using an MFRC522 RFID reader, 4x4 keypad, and DHT11 sensor, the system grants tiered access to users and administrators while monitoring and adjusting temperature, humidity, and luminosity conditions in real-time. The system features servo motors for physical actuation and relay control for lighting, making it ideal for smart home, laboratory, or restricted access environments.</p><center><img src="/assets/smart_access.png" width="75%" height="75%"></center>
+excerpt: <p align="justify">The Smart Access Controller is an integrated Arduino-based system that combines RFID authentication, keypad input, and environmental monitoring to create a versatile access control and automation solution. Using an MFRC522 RFID reader, 4x4 keypad, and DHT11 sensor, the system grants tiered access to users and administrators while monitoring and adjusting temperature, humidity, and luminosity conditions in real-time. The system features servo motors for physical actuation and relay control for lighting, making it ideal for smart home, laboratory, or restricted access environments.</p><center><img src="/assets/smart_access.png" width="33%" height="33%"></center>
 ---
 
 The Smart Access Controller implements a multi-layered security system beginning with RFID authentication. Authorized users are identified through their RFID card UID (66 8B F8 04 for users, FA 4D 6C 3 for administrators), after which they must enter a secure PIN code (# for users, 1# for administrators) via the keypad interface. Three failed authentication attempts trigger a security lockdown with visual indication via RGB LED.
@@ -37,7 +37,7 @@ This project demonstrates how to create a comprehensive embedded system that com
 
 {:.mycenter}
 
-![Smart Access Controller Diagram](/assets/smart_access.png){: width="85%" }
+![Smart Access Controller Diagram](/assets/smart_access.png){: width="45%" }
 
 <style>
 .mycenter {
