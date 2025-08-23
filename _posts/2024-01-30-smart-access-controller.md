@@ -47,4 +47,4 @@ This project demonstrates how to create a comprehensive embedded system that com
 
 [Project Repository][GitHubLink]
 
-[GitHubLink]: https://github.com/yourusername/SmartAccessController
+[GitHubLink]: https://github.com/miguelangelooscardoso/SmartAccessController
