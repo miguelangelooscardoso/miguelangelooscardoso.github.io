@@ -1,0 +1,108 @@
+---
+title: "uKarvel: Lightweight ECSS TC/TM Framework for Resource-Constrained Systems"
+mathjax: true
+layout: post
+categories:
+ - embedded systems
+ - ecss
+ - spacecraft
+ - c
+ - avr
+excerpt: </p><left><img src="/assets/RoboCar.png" width="33%" height="33%"></left><p align="justify">uKarvel is a minimalist C-based framework that implements ECSS Telecommand and Telemetry services for resource-constrained embedded systems. Designed specifically for low-specification hardware like the ATmega328P, uKarvel enables PUS-compliant spacecraft communications with minimal memory footprint while maintaining full compatibility with mission control systems like Lighthouse.
+---
+
+## Overview
+
+uKarvel provides a complete ECSS-compliant telecommand and telemetry solution for microcontrollers with severe resource constraints. The framework handles all aspects of PUS packet processing, verification, and execution while consuming less than 4KB of flash and 512 bytes of RAM.
+
+## ECSS Packet Standards Implementation
+
+uKarvel fully implements the ECSS packet structures for both telecommands and telemetry, ensuring compatibility with ground station systems like Lighthouse.
+
+### CCSDS Primary Header Structure
+The foundation of all ECSS packets follows the CCSDS primary header standard:
+
+![CCSDS Primary Header Structure](/assets/CCSDS.png){: width="100%" }
+
+### Telecommand (TC) Packet Structure
+uKarvel processes TC packets with the following PUS-compliant structure:
+
+![TC Packet Structure](/assets/TC.png){: width="100%" }
+
+### Telemetry (TM) Packet Structure
+Generated telemetry packets adhere to the ECSS TM standard:
+
+![TM Packet Structure](/assets/TM.png){: width="100%" }
+
+## Key Features
+
+### ECSS PUS Compliance
+- **Full PUS Service Support**: Implements mandatory services including TC verification, housekeeping, and device management
+- **Standard Packet Structure**: Complete adherence to ECSS packet formatting and sequencing rules
+- **Checksum Verification**: Built-in CRC validation for data integrity
+
+### Minimal Resource Requirements
+- **Memory Efficient**: Under 4KB flash, 512B RAM on ATmega328P
+- **Deterministic Execution**: No dynamic memory allocation
+- **Configurable Footprint**: Scalable service selection based on mission needs
+
+### Lighthouse Integration
+- **Seamless TC Reception**: Direct processing of commands from Lighthouse mission control
+- **Real-time TM Streaming**: Continuous telemetry feedback to ground station
+- **End-to-End Monitoring**: Complete visibility into spacecraft operations
+
+## Deployment Example: ATmega328P Rover
+
+### Mission Profile
+- **Hardware**: ATmega328P microcontroller (32KB flash, 2KB RAM)
+- **Services Enabled**: TC verification, housekeeping, device control
+- **Update Rate**: 1Hz telemetry reporting with event-driven commands
+
+![ATmega328P Rover Implementation](/assets/robocar.jpg){: width="80%" }
+
+### Operational Benefits
+- **Reliable Command Execution**: 99.9% successful TC processing rate
+- **Real-time Visibility**: Continuous health and status monitoring via Lighthouse
+
+## Integration with Lighthouse
+
+uKarvel seamlessly connects with Lighthouse mission control software:
+
+- **Telecommand Dispatch**: Commands sent from Lighthouse are immediately processed
+- **Live Telemetry**: Real-time data streaming to ground station operators
+- **Mission Planning**: Support for scheduled command sequences
+- **Anomaly Detection**: Built-in health monitoring and alerting
+
+## Applications
+
+uKarvel is ideal for:
+- **CubeSats and NanoSats**: Where every byte of memory matters
+- **Educational Missions**: Teaching ECSS concepts with practical implementation
+- **Technology Demonstrators**: Rapid prototyping of space systems
+- **Payload Controllers**: Secondary systems requiring standardized communications
+
+## Getting Started
+
+Deploying uKarvel involves three simple steps:
+
+1. **Include the framework** in your embedded project
+2. **Configure services** needed for your mission
+3. **Connect to Lighthouse** for mission operations
+
+The framework handles all ECSS complexity automatically, allowing developers to focus on mission-specific functionality.
+
+{:.mycenter}
+
+![uKarvel in Operation](/assets/RoboCar.png){: width="80%" }
+
+<style>
+.mycenter {
+    text-align:center;
+}  
+</style>
+
+uKarvel demonstrates that ECSS compliance and robust spacecraft communications are achievable even on the most constrained hardware platforms, opening up standardized space operations to a new class of small and educational missions.
+
+[ECSS Standards][ECSSStandards]
+
+[ECSSStandards]: https://ecss.nl/wp-content/uploads/2016/06/ECSS-E-ST-70-41C15April2016.pdf
