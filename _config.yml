@@ -5,7 +5,7 @@ title: "Miguel Cardoso"
 permalink: /:title/ 
 lang: "en"
 excerpt_separator: "\n\n\n"
-date_format: "%B %d, %Y"
+# date_format: "%B %d, %Y"
 
 # Layout
 
