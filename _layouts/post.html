@@ -3,7 +3,9 @@ layout: default
 ---
 
 <article>
+  {% comment %}
   {% include meta.html post=page %}
+  {% endcomment %} 
   {{ content }}
   {% if page.comments != false and site.comments.isso or site.comments.disqus %}
     <hr>
